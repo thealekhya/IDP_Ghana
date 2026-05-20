@@ -1,0 +1,798 @@
+pk_unique_id,name,facilityTypeId,address_city,address_stateOrRegion,anomaly_score,graph_anomaly,region
+636,Shai-Osudoku District Hospital,hospital,Dodowa,Greater Accra,0.34605974,True,Greater Accra
+421,Lekma Hospital – Teshie,hospital,Accra,Greater Accra,0.23994347,False,Greater Accra
+616,"Saint Luke Hospital, Kasei",hospital,Kumasi,Ashanti Region,0.39543626,True,Ashanti
+111,Bechem Government Hospital,hospital,Bechem,Ahafo Region,0.17963825,False,Ahafo
+159,Chrispod Hospital and Diagnostic Center,hospital,Dome,Ga East Municipality,0.31916934,True,Ga East Municipality
+490,Mother of God Hospital,hospital,Ashaiman,,0.095346645,False,Unknown
+432,MAB International Hospital,hospital,Darkuman-Nyamekye,Greater Accra,0.27890876,True,Greater Accra
+479,"Methodist Hospital, Wenchi",hospital,Wenchi,Bono,0.37482378,True,Bono
+113,Bemuah Royal Hospital,hospital,Accra,,0.3661572,True,Unknown
+85,Asamang Seventh-day Adventist Hospital,hospital,Asamang,,0.14005321,False,Unknown
+673,St. Francis Xavier Hospital,hospital,Assin-Foso,Central Region,0.30827615,True,Central
+288,Glado Clinic Ltd - Dental Practice,clinic,Takoradi,,0.06977734,False,Unknown
+514,Nyaho Medical Centre,clinic,Accra,,0.4804314,True,Unknown
+322,HealthLink Hospital,hospital,Accra,,0.7139359,True,Unknown
+580,Provita Specialist Hospital,hospital,Tema,,0.020368278,False,Unknown
+360,"Janie Speaks A.M.E Zion Hospital, Akomadan-Afrancho, Ashanti",hospital,Kumasi,Ashanti,0.019396676,False,Ashanti
+339,Humanity and Community Development Projects HCDP Ghana,,Ho,Volta Region,0.17340899,False,Volta
+382,Kings and Queens Medical University Teaching Hospital,hospital,Akosombo,Eastern Region,0.724358,True,Eastern
+347,Inkoom Hospital,hospital,Accra,Greater Accra,0.06119325,False,Greater Accra
+715,Tamale Central Hospital,hospital,Tamale,Northern,0.09268235,False,Northern
+604,Ruma Fertility and Specialist Hospital,hospital,Kumasi,,0.27957076,True,Unknown
+587,Rabito Clinic Limited,clinic,Accra,Greater Accra,0.101465024,False,Greater Accra
+670,"St. Dominic Catholic Hospital, Akwatia",hospital,Akwatia,,0.029886419,False,Unknown
+791,Worawora Government Hospital,hospital,Worawora,Oti Region,0.12105606,False,Oti
+624,Samj Specialist Hospital,hospital,Cantonments,Greater Accra Region,0.2637442,True,Greater Accra
+474,Mercy Women Catholic Hospital - Mankessim,hospital,Mankessim,,0.23635553,False,Unknown
+39,"Ahmadiyya Muslim Hospital, Techiman",hospital,Techiman,Bono East Region,0.13350825,False,Bono
+681,St. Jude Hospital Gh,hospital,Obuasi,,0.08079208,False,Unknown
+677,St. John of God Hospital (ASAFO),hospital,SEFWI-ASAFO,Western North Region,0.2529672,True,Western North
+283,Ghana Police Hospital,hospital,Accra,,0.025699345,False,Unknown
+706,Swan Medical Laboratory,clinic,Adenta Municipality,,0.21838768,False,Unknown
+269,Voice Of The Innocent Children,,Accra,,0.17337234,False,Unknown
+492,Mother-Love Hospital,hospital,Adenta-Fafraha,Greater Accra,0.29713926,True,Greater Accra
+727,The Bank Hospital,hospital,Accra,,0.03730611,False,Unknown
+426,LittleBigSouls Ghana,,Accra,,0.14388219,False,Unknown
+405,Kwadwo Boapim Herbal Clinic,clinic,Accra,,0.20343147,False,Unknown
+413,Lanbell Laboratory and Diagnostic Centre,clinic,Accra,East Legon,0.056115534,False,East Legon
+699,Suncity Medical Centre,hospital,Tema,Tema West Municipal,0.019759852,False,Tema West Municipal
+270,Gastrointestinal Diseases and Endoscopy Centre,clinic,East Legon,Greater Accra,0.061062846,False,Greater Accra
+296,GloryLine Dental Services,dentist,Kumasi,,0.23854648,False,Unknown
+268,GARH- RIDGE,hospital,Ridge,Greater Accra,0.03985364,False,Greater Accra
+109,Catholic Hospital Battor,hospital,Battor,Volta Region,0.017829537,False,Volta
+263,Freshwater Wellness & Therapeutic Clinic Ghana,clinic,Accra,Greater Accra,0.056530856,False,Greater Accra
+292,"Global Evangelical Mission Hospital - Apromase, Ghana",hospital,Kumasi,,0.13334778,False,Unknown
+176,Crystal Eye Clinic,clinic,Accra,,0.14419906,False,Unknown
+184,Danpong HealthCare,clinic,Accra,,0.2628068,True,Unknown
+166,"Claron Health International – No 2, Dodi Link, Between Volta Street and Akosombo Road, Airport Residential, Accra, Ghana",,Accra,Greater Accra,0.37226224,True,Greater Accra
+749,"Trustcare Specialist Hospital & Fertility Center - Kumasi, Ghana",hospital,Kumasi,Ashanti,0.05499814,False,Ashanti
+197,Diabetes Youth Care,,Osu,Accra East,0.16127345,False,Accra East
+745,Tophill Hospital,hospital,Kumasi,,0.018020775,False,Unknown
+25,Adiebeba Specialist Hospital,hospital,Kumasi,,0.3597059,True,Unknown
+289,Glee Diagnostic Centre,clinic,Accra,,0.064347744,False,Unknown
+768,Violet's Medical Centre,hospital,Accra,Accra,0.06587598,False,Greater Accra
+316,"HASS West Africa Hearing Centre, Kaneshie opposite Cocoa Clinic, Accra, Ghana",clinic,Accra,,0.06307922,False,Unknown
+562,Poku Transport Hospital,hospital,Kumasi,,0.020462237,False,Unknown
+332,"Holy Family Hospital, Nkawkaw, Ghana",hospital,Nkawkaw,,0.020540865,False,Unknown
+66,American_Rejuvenation Clinic,clinic,Accra,Greater Accra,0.0569128,False,Greater Accra
+42,Airport Women's Hospital,hospital,Accra,Accra,0.10212388,False,Greater Accra
+459,"Medicas Hospital, Mampong-Akuapem",hospital,Akuapem Mampong,,0.26160994,True,Unknown
+438,MANAM Ghana Dental House,dentist,Accra,,0.23528413,False,Unknown
+82,Arthurs Clinic & Prostate Center,clinic,Accra,,0.06748694,False,Unknown
+70,Angela Catholic Clinic,clinic,New Takoradi,Western Region,0.04673051,False,Western
+398,Kumaning Medical Centre,hospital,Kumasi,,0.07127451,False,Unknown
+518,"NYKON Clinic (18 Silicon Avenue, Kentinkrono, Kumasi, Ghana)",clinic,Kumasi,Ashanti,0.07127739,False,Ashanti
+304,Greater Accra Regional Hospital,hospital,Accra,,0.53478444,True,Unknown
+306,Greenshield Hospital Wiawso,hospital,Sefwi Wiawso,Western North,0.1992903,False,Western North
+121,Bimbilla Hospital,hospital,Bimbilla,Northern,0.057027277,False,Northern
+251,Finney Hospital and Fertility Centre,hospital,Accra,,0.054746,False,Unknown
+370,Jubail Specialist Hospital,hospital,Accra,,0.05505667,False,Unknown
+665,"St. Andrew Catholic Hospital, Kordiabe",hospital,Kordiabe,"Shai Osudoku District, Greater Accra Region",0.19538845,False,Greater Accra
+560,Pleasant Medical Centre,hospital,Ashaiman,,0.018179698,False,Unknown
+389,Koforidua Clinic,clinic,Koforidua,,0.0642299,False,Unknown
+739,The Trust Hospital Company Limited,hospital,Accra,,0.054721635,False,Unknown
+344,Impact Medical and Diagnostic Center,clinic,Accra,,0.41949365,True,Unknown
+119,Beulah Land International Hospital,hospital,Accra,,0.2304741,False,Unknown
+495,Mwin Tuba Hospital and Colo-Proctology Centre,hospital,Accra,,0.018342668,False,Unknown
+496,Myeyedr Gh Vision and Eyecare Centre,,Accra,,0.06495293,False,Unknown
+35,"Agogo Presbyterian Hospital, Asante Akim North, Agogo",hospital,Agogo,Ashanti Region,0.0684136,False,Ashanti
+472,"MENRI Pharmacy - 22 Stewart Avenue, Uaddar Barracks, Bantama, Kumasi, Ghana",farmacy,Kumasi,,0.40934154,True,Unknown
+452,"Maternal and Child Health Hospital, Pampaso",hospital,Kumasi,,0.1701563,False,Unknown
+1,West Africa AIDS Foundation,,Haatso,,0.23712914,False,Unknown
+475,Meridian Medical Centre,hospital,Tema,,0.017948827,False,Unknown
+480,Metro Health Hospital,hospital,Kumasi,,0.3806056,True,Unknown
+483,Mission Clinic,clinic,Accra,Greater Accra Region,0.3381103,True,Greater Accra
+729,The Community Hospital New Ashongman,hospital,New Ashongman,,0.1498185,False,Unknown
+728,The Brain and Sleep Medical Centre,clinic,Accra,,0.2195959,False,Unknown
+773,Volta Regional Hospital-Hohoe,hospital,Hohoe,,0.09236569,False,Unknown
+443,Margaret Marquart Catholic Hospital,hospital,Kpando,Volta Region,0.0012211957,False,Volta
+54,Alhaji Nuhu Memorial Healthcare Centre,,Kamgbunli,Western Region,0.26335087,True,Western
+19,Acrecity Medics,clinic,Accra,,0.2920988,True,Unknown
+429,Lucy Memorial Hospital,hospital,Accra,,0.11704609,False,Unknown
+503,New Crystal Hospital,hospital,Ashaiman,,0.39527386,True,Unknown
+691,St. Paul’s Dental Clinic,clinic,Takoradi,Western Region,0.21117465,False,Western
+417,LaserGlow Dental Clinic,dentist,Accra,Greater Accra,0.20105508,False,Greater Accra
+498,Nagel Memorial Adventist Hospital,hospital,Takoradi,,0.046880662,False,Unknown
+771,Vision Hospital,clinic,Adenta,Greater Accra Region,0.17800353,False,Greater Accra
+105,Banhart Specialist Hospital,hospital,Abesim - Sunyani,,0.80261475,True,Unknown
+333,"Holy Trinity Medical Centre, North Kaneshie, Accra, Ghana",clinic,North Kaneshie,Accra,0.03894918,False,Greater Accra
+108,Bart-Plange Memorial Clinic,hospital,Agbogbloshie,Greater Accra,0.07472124,False,Greater Accra
+375,Karin Dental Clinic,clinic,Kasoa,,0.038739834,False,Unknown
+770,Vision Healthcare Clinic,clinic,Accra,Greater Accra Region,0.19472796,False,Greater Accra
+551,Peki Government Hospital,hospital,Peki,Volta,0.09754272,False,Volta
+660,St John's Hospital & Fertility Centre,hospital,Accra,,0.03470805,False,Unknown
+659,St Benito Menni Hospital,hospital,Dompoase,Ashanti Region,0.27896908,True,Ashanti
+525,"Odorna Medical Centre - No. 13 Ahinakwa Street, Official Street, Adabraka - Accra, Accra, Ghana",clinic,Accra,Accra,0.070570916,False,Greater Accra
+74,Anthon Memorial Hospital,hospital,Accra,,0.019409845,False,Unknown
+513,NunanaClinic,clinic,Tesano,Accra,0.07708661,False,Greater Accra
+358,Jaggreys’s Fertility and Medical Services,clinic,Accra,,0.04567211,False,Unknown
+356,International Maritime Hospital,hospital,Tema,,0.3471491,True,Unknown
+355,International Health Care Center Ghana,clinic,Accra,,0.16760996,False,Unknown
+354,International Dental Clinic Ghana,clinic,Accra,,0.079653844,False,Unknown
+348,"Innovo MD - Nmati Agbonse Street - By Unique Floral, Accra, Ghana",hospital,Accra,,0.019409845,False,Unknown
+373,Karaga District Hospital,hospital,Karaga,,0.09219888,False,Unknown
+374,"Karikari Brobbey Hospital - Dansoman, Accra",hospital,Dansoman,Accra,0.057963707,False,Greater Accra
+97,Axim Government Hospital,hospital,Axim,,0.09330313,False,Unknown
+342,Idyllic Health Consortium,clinic,Accra,,0.06359196,False,Unknown
+359,Jambo Medical Centre,,Accra,,0.12940136,False,Unknown
+539,Our Lady of Grace Hospital,hospital,Breman Asikuma,Central Region,0.16717681,False,Central
+393,Komfo Anokye Teaching Hospital,hospital,Kumasi,,0.018943027,False,Unknown
+567,Precious Gem Diagnostic Centre,,Accra,,0.29669547,True,Unknown
+139,Busybitesdentalgh,dentist,East Legon,,0.2391809,False,Unknown
+254,First Intervention Ghana,,Cape Coast,,0.19975255,False,Unknown
+151,Central Dansoman Clinic,clinic,Accra,,0.04432457,False,Unknown
+266,"Gak Clinic - Osu, Accra",clinic,Accra,Greater Accra,0.054058928,False,Greater Accra
+262,Freedom Aid Ghana,,Accra,,0.14260036,False,Unknown
+255,FOCOS Orthopaedic Hospital Ghana,hospital,Accra,,0.34841868,True,Unknown
+267,Garden City Royal Hospital and Cancer Centre,hospital,Kumasi,,0.3739017,True,Unknown
+135,Bromley Park Dental Clinic,clinic,Accra,,0.10898839,False,Unknown
+588,Raphal Medical Centre,hospital,,,0.019226585,False,Unknown
+290,"GLITZ Medical Center — Tse Addo, Accra, Ghana",,Accra,,0.023695847,False,Unknown
+279,Ghana-Canada Medical Centre,hospital,Accra,,0.022277012,False,Unknown
+579,Proffer Aid International Foundation,,Legon,Accra,0.15828565,False,Greater Accra
+274,General Clinic,clinic,Accra,,0.2817559,True,Unknown
+601,ROYAL Hospital Ho Volta Region Ghana,hospital,Ho,Volta Region,0.022401115,False,Volta
+640,Sight For Africa,clinic,Odorkor,,0.10661373,False,Unknown
+212,Dr. Awuah Sankofa Natural Health Clinic,clinic,Accra,,0.062557876,False,Unknown
+207,Dominase Adventist Hospital,hospital,Bekwai,Ashanti,0.07613035,False,Ashanti
+219,E.M. Ayisi Medical Centre,hospital,Accra Central,,0.11322705,False,Unknown
+608,SAGE Dental Clinic,clinic,Kumasi,,0.10722161,False,Unknown
+242,Excellent EyeCare Ghana,clinic,Kasoa,Greater Accra,0.10444704,False,Greater Accra
+746,"Trauma and Specialist Hospital, Winneba",hospital,Winneba,Central Region,0.4825459,True,Central
+719,Tarkwa Municipal Hospital,hospital,Tarkwa,,0.15872924,False,Unknown
+173,County Hospital Ghana,hospital,Kumasi,,0.033726703,False,Unknown
+216,Drifney Dental Services,dentist,Weija,Accra,0.22031526,False,Greater Accra
+16,Accra Specialist Eye Hospital,hospital,Accra,,0.39913562,True,Unknown
+29,Advocate Healthcare,dentist,Accra,,0.22227477,False,Unknown
+442,"Mansowa Herbal Clinic, Kasoa",clinic,Accra,SH,0.025551634,False,Sh
+190,DEL Dental and Implant Clinic,clinic,Accra,Greater Accra,0.08441067,False,Greater Accra
+784,Western Regional Hospital - Effia Nkwanta,hospital,Sekondi,,0.09406343,False,Unknown
+15,Accra Psychiatric Hospital,hospital,Accra,,0.16412087,False,Unknown
+467,MedTech Medical Center,,Accra,,0.098489985,False,Unknown
+182,Dangme WEST Hospital Complex,hospital,Dodowa,,0.022155272,False,Unknown
+200,Divine Sanitas Medical Center,clinic,Kasoa,Central Region,0.062104773,False,Central
+191,DEL International Hospital,hospital,Accra,Greater Accra Region,0.12922372,False,Greater Accra
+170,Community Dental Practice,dentist,Tema,,0.22699046,False,Unknown
+57,All Smile Dental & Paediatric Centre,dentist,Accra,,0.25960502,True,Unknown
+195,Destiny Hospital,hospital,Kumasi,,0.050179448,False,Unknown
+47,Akcess Dental,dentist,North Legon,Accra,0.22559775,False,Greater Accra
+179,Dakopon Hospital,hospital,Kumasi,,0.023028146,False,Unknown
+172,Cosmopolitan Medical Centre,hospital,Accra,,0.15371399,False,Unknown
+220,"Eastern View Skin Clinic, Berekum",clinic,Berekum,,0.08866275,False,Unknown
+612,Saint Jason Medical and Surgical Center,hospital,Sefwi,Ghana,0.12871112,False,Ghana
+449,MSI Reproductive Choices Ghana,,Accra,Greater Accra,0.2757229,True,Greater Accra
+493,Mount Carmel Hospital and Fertility Center,hospital,Tema,,0.05438487,False,Unknown
+643,Sinel Hospital Tema,hospital,Tema,,0.016990844,False,Unknown
+418,"LawFam Nutritional Clinic - 47 Fertilizer Road, Teshie, Ghana",clinic,,,0.06337649,False,Unknown
+196,Dexter Medical Centre,clinic,Sunyani,,0.035267774,False,Unknown
+731,"The Gordon’s Optometry - Dansoman High Street, Accra, Accra, Ghana",,Accra,Accra,0.05941024,False,Greater Accra
+633,Sefwi Wiawso District Hospital,hospital,Sefwi Wiawso,,0.15863068,False,Unknown
+156,Cheerful Hearts Foundation,,Kasoa,Central Region,0.16493486,False,Central
+423,Life Healthcare Center Ghana,,Accra,,0.102513425,False,Unknown
+750,Tumiwura Herbal Research & Clinic,hospital,Accra,,0.16513413,False,Unknown
+751,Twin City Clinic,clinic,Takoradi,Western Region,0.015023032,False,Western
+724,Tema Women’s Hospital,hospital,Tema,Ghana,0.07273979,False,Ghana
+726,Tetteh Quarshie Memorial Hospital,hospital,Akuapim-Mampong,Eastern,0.23646528,False,Eastern
+60,Alma Medical Laboratory,,Accra,,0.017772831,False,Unknown
+757,University of Energy and Natural Resources Clinic,clinic,Sunyani,,0.03844115,False,Unknown
+243,Executiveheartcentre_Social,clinic,Accra,,0.17094815,False,Unknown
+68,Aneeja Hospital,hospital,Accra,,0.2707041,True,Unknown
+65,Amen Scientific Herbal Hospital,hospital,Accra,,0.020152053,False,Unknown
+507,New Star Ear Centre,,Accra,,0.01618699,False,Unknown
+232,"Empat-Caiquo Medical Centre - Adjacent SOS Children's Village, Hermann-Gmeiner Road, Tema, Ghana",hospital,Tema,,0.024962002,False,Unknown
+609,Sahara Herbal Centre,clinic,Cape Coast,,0.034313858,False,Unknown
+627,Saviour's Clinic - Ghana,clinic,Mangoase,Western Region,0.036323465,False,Western
+530,Omabod Dental & Wellness,dentist,Accra,,0.22286142,False,Unknown
+508,Nk-Salem Medical Centre,hospital,Accra,,0.042437017,False,Unknown
+572,Prescott Medical Centre,hospital,Accra,,0.022277005,False,Unknown
+573,Prime Diagnostics and Eye-care,,Kumasi,Ashanti,0.07112228,False,Ashanti
+557,Phoenix Healthcare,,Adenta,Greater Accra,0.037843976,False,Greater Accra
+311,Gye Nyame Mobile Clinics,,Kumasi,,0.1717946,False,Unknown
+777,War Memorial Hospital,hospital,Nogsenia,,0.09330313,False,Unknown
+107,Barnor Memorial Hospital,hospital,Mataheko,,0.019226566,False,Unknown
+484,Mission Pediatrics,clinic,Accra,,0.083926514,False,Unknown
+20,Acres Medical Centre,hospital,Accra,,0.072340816,False,Unknown
+701,Sunyani Municipal Hospital,hospital,Sunyani,Brong Ahafo,0.072308905,False,Bono
+464,Medscreen Missions,,Accra,,0.14453973,False,Unknown
+785,White Star Dental Clinic,clinic,Kumasi,,0.08710401,False,Unknown
+100,Azara Tampulimah Herbal Clinic,clinic,Tamale,,0.035597682,False,Unknown
+91,ATEBUBU DISTRICT HOSPITAL,hospital,Atebubu,Brong Ahafo Region,0.07558646,False,Bono
+352,"Inter-Star Eye Clinic and Laser Center - Osu, Accra, Ghana",clinic,Osu,,0.22542228,False,Unknown
+285,Ghana Rubber Estate Clinic,clinic,TAKORADI,,0.101425886,False,Unknown
+555,"Philta Eye Care - Danquah Circle, Adjacent Police Hospital, Cantonments",,Cantonments,,0.068188995,False,Unknown
+327,Hijama Herbal Clinic (Accra Lapaz),clinic,Accra,,0.0833221,False,Unknown
+547,Passion Medical Laboratory,,Ejisu,,0.14581975,False,Unknown
+350,Integrated Diagnostic Solutions,,Accra,Greater Accra,0.025131319,False,Greater Accra
+693,St.Andrews Clinic,clinic,Accra,,0.037417136,False,Unknown
+299,Godly Favoured Eye Care Centre - Abeka Junction - Tesano,,Accra,,0.097634755,False,Unknown
+760,"Upscale Pro Angels Fertility — 10 Martey Tsuru Street Behind Papaye, DBS Axis Spintex Road, Spintex Road, Accra Ghana.",clinic,Accra,,0.09320273,False,Unknown
+759,Upper West Regional Hospital,hospital,Wa,Upper West,0.040780608,False,Upper West
+114,Bengali Hospital,hospital,Tema,,0.062381916,False,Unknown
+312,Habibi Herbal Hospital,hospital,Accra,,0.1582722,False,Unknown
+123,Blessings Clinic,hospital,Tesano,Greater Accra,0.075680725,False,Greater Accra
+275,Generational Health Foundation,,Kumasi,Asokwa-Kumasi,0.18958603,False,Asokwa-Kumasi
+657,Springfield Dental Clinic - Weija-Broadcasting Junction,clinic,Weija,,0.045437068,False,Unknown
+675,St. John Ambulance Ghana,,Accra,,0.19995259,False,Unknown
+529,Omaaduro Natural Health Centre,clinic,Tema,Greater Accra Region,0.082588844,False,Greater Accra
+140,C.H.I.L.D. & Associates,hospital,Accra,,0.07627831,False,Unknown
+599,Ropheka Herbal Hospital,hospital,Ashale-Botwe,,0.017443862,False,Unknown
+257,Forever Medicals GH,,Accra,,0.023966054,False,Unknown
+132,Breast Care International,,Kumasi,,0.15938544,False,Unknown
+515,Nyaho Medical Centre - Takoradi Branch,hospital,Takoradi,,0.06686485,False,Unknown
+648,Society for AIDS in Africa,,Accra,,0.22826874,False,Unknown
+600,Royal Good Shepherd Medical Centre,hospital,New Weija,,0.050668765,False,Unknown
+736,The Specialist Dental Practice,dentist,Accra,,0.22847775,False,Unknown
+707,Sweden Ghana Medical Centre-SGMC,,Accra,,0.081071235,False,Unknown
+744,TOP Herbal Clinic,hospital,Accra,,0.018860513,False,Unknown
+234,Eric Heymann Memorial Hospital,hospital,Accra,,0.030295594,False,Unknown
+145,Care360 Medical Centre,clinic,Accra,,0.07547299,False,Unknown
+692,"St. Vincent De Paul Clinic, Drobonso",clinic,Kumawu,,0.032240134,False,Unknown
+150,"Center for Cosmetic Surgery, Ghana",clinic,Accra,,0.11296045,False,Unknown
+46,Akatsi South Municipal Hospital,hospital,Akatsi,,0.3684858,True,Unknown
+51,Akwamuman Herbal Clinic,clinic,Akosombo,,0.06017628,False,Unknown
+67,Anane Aya Maternity Home,clinic,,Ashanti,0.090777256,False,Ashanti
+44,Ajumako Hospital,hospital,Ajumako,Central,0.10672687,False,Central
+233,Enchi Government Hospital,hospital,Enchi,Western North Region,0.2984512,True,Western North
+245,Eye To Eye Clinic,clinic,Aflao,,0.13191952,False,Unknown
+241,"Excel Dental Clinic - Abofu Traffic Lights, Achimota, Accra, Ghana",clinic,Accra,,0.07985888,False,Unknown
+227,Ejura District Hospital,hospital,Ejura,,0.09219888,False,Unknown
+224,Effiduase Govt. Hospital,hospital,Sekyere,Ashanti Region,0.021687463,False,Ashanti
+225,EGAM CLINIC,clinic,Sekondi,,0.08057988,False,Unknown
+629,SDA Hospital Kwadaso,hospital,Kwadaso,,0.033952493,False,Unknown
+606,Safadi Medical Hub Dental Clinic,clinic,Accra,Greater Accra,0.07263626,False,Greater Accra
+628,Sda Clinic,hospital,Dominase,Central Region,0.04502883,False,Central
+626,Savanna Opticals,clinic,Tamale,,0.11358199,False,Unknown
+211,Dormaa Presbyterian Hospital,hospital,Dormaa Ahenkro,,0.086561784,False,Unknown
+758,University of Ghana Medical Centre,,Accra,Greater Accra,0.012502725,False,Greater Accra
+420,LEDing Medical Laboratory,,Accra,,0.014914118,False,Unknown
+500,Narozzy Medical Hospital,hospital,Somanya,,0.13655373,False,Unknown
+499,Nana Hima Dekyi (Dixcove Government) Hospital,hospital,Dixcove,,0.09190049,False,Unknown
+425,Little Hearts Medical Practice,,Accra,,0.08363128,False,Unknown
+722,Tema General Hospital,hospital,Tema,,0.030377295,False,Unknown
+622,Salvation Army,,Maamobi,Greater Accra,0.15787262,False,Greater Accra
+213,Dr. Martin Curry Dentistry,clinic,Accra,,0.10898715,False,Unknown
+177,Cura Healthcare Services,,Accra,Greater Accra,0.20403104,False,Greater Accra
+641,Simpa Health Centre - Ghana,clinic,Simpa,Western,0.07943739,False,Western
+416,"LARS Medical Center - Sunyani Abesim Opposite Victory Hardware, Sunyani, Ghana",hospital,Sunyani,,0.0527916,False,Unknown
+414,Lapaz Community Hospital,hospital,Accra,,0.59694266,True,Unknown
+733,The Rock Hospital Accra,hospital,Accra,,0.056903217,False,Unknown
+412,"Lakeside Clinic - North Industrial Area, Accra",clinic,Accra,,0.032442477,False,Unknown
+406,Kwesimintsim Hospital,hospital,Takoradi,Western,0.032304563,False,Western
+401,Kuntanase Government Hospital,hospital,Kuntanase,Ashanti,0.012580235,False,Ashanti
+400,"Kumoji Hospital - Cantonments, Accra",hospital,Accra,,0.037897915,False,Unknown
+215,Dreams Fertility And Alt Clinic,clinic,Tema Community 22,Greater Accra Region,0.08774356,False,Greater Accra
+618,Sakumono Community Multiplex Hospital,hospital,Tema,,0.07238202,False,Unknown
+428,Lod Health Lounge,,Accra,,0.051830973,False,Unknown
+6,3Way Family Care Clinic,clinic,Acherensua,Asutifi South,0.04135723,False,Asutifi South
+783,West End Hospital,hospital,Kumasi,,0.013253749,False,Unknown
+155,Christian Health Association of Ghana,,Accra,,0.14539683,False,Unknown
+27,Adum Banso Community Clinic,clinic,Adum Banso,Western Region,0.09317916,False,Western
+204,"Doctors in Service Clinic - Abura, Cape Coast, Ghana",,Cape Coast,,0.013527653,False,Unknown
+201,Divine Smile Dental Care,dentist,Ejisu,,0.20180911,False,Unknown
+175,Crown Medical Centre Ghana,,Accra,,0.06809629,False,Unknown
+31,Aframso Health Centre,,Nsuta,,0.08917708,False,Unknown
+40,Ahmadiyya Muslim Mission Hospital,hospital,DABOASE,Western Region,0.0332488,False,Western
+460,Medikah Diagnostic Services -- Weija-Gbawe Municipal District,,Weija,Greater Accra Region,0.17001225,False,Greater Accra
+181,Dande Natural Herbal Clinic,clinic,Techiman,,0.059612878,False,Unknown
+468,MedyLife Healthcare,,Accra,,0.023347542,False,Unknown
+517,Nyame Besa Herbal Clinic,clinic,Nsawam,,0.29285488,True,Unknown
+236,Essence Medical Laboratory,,Accra,,0.053864084,False,Unknown
+253,First Care Hospital,hospital,Kumasi,,0.021300416,False,Unknown
+260,Framada Dental Clinic,dentist,Kumasi,,0.24742723,True,Unknown
+516,Nyaho Medical Centre - Tema Branch,hospital,Tema,,0.07671153,False,Unknown
+598,Rophe Specialist Care,clinic,Accra,,0.24622436,True,Unknown
+154,Certa Medical Diagnostics,clinic,Accra,,0.11159743,False,Unknown
+686,St. Martin's Catholic Hospi,hospital,,,0.037618298,False,Unknown
+247,Faith Evangelical Mission Hospital,hospital,Accra,,0.03339402,False,Unknown
+591,Reed Danos Medical Centre,clinic,Bibiani,,0.06854742,False,Unknown
+617,Saint Thomas Eye Hospital Ghana,clinic,Accra,,0.076326005,False,Unknown
+58,Allen Health Clinic - Ghana,clinic,Wamasi,Ashanti,0.03205367,False,Ashanti
+656,Spine and Nerve Center - Ghana,clinic,Accra,,0.06644979,False,Unknown
+655,Spectra Health Ghana,,Kumasi,,0.035367046,False,Unknown
+273,"Gemar Healthcare, Agona Nkwanta",clinic,Sekondi,,0.070731886,False,Unknown
+533,"Optical Express Eye Centre (Patase, Kumasi, Ghana)",clinic,Kumasi,,0.10486677,False,Unknown
+131,Bre Nye Kwa Hospital,hospital,Berekum,Brong Ahafo,0.089837074,False,Bono
+129,Bone Marrow Transplantation Ghana,,Accra,Accra North,0.18028146,False,Accra North
+535,Osagyefo Memorial Medical Centre - OMMC,,Bakanta,Western Region,0.05136067,False,Western
+281,Ghana Dental Care,clinic,Accra,Accra,0.0932703,False,Greater Accra
+277,Gengimed Dental Clinic,clinic,Accra,,0.11640365,False,Unknown
+387,KNUST Hospital,hospital,Kumasi,Ashanti Region,0.10604759,False,Ashanti
+380,Keta Government Hospital,hospital,Keta,,0.13371024,False,Unknown
+369,Juaso Government Hospital,hospital,Juaso,Ashanti,0.08123594,False,Ashanti
+653,Spark Health Care,hospital,Kumasi,Ashanti Region,0.022463879,False,Ashanti
+512,Novocare Medical Diagnostics,,Nungua,,0.4527478,True,Unknown
+596,Right to Sight and Health,,Tamale,,0.17839529,False,Unknown
+593,Rescue Clinic,clinic,,Western Region,0.11363436,False,Western
+264,Ga East Municipal Hospital,hospital,Accra,,0.06849212,False,Unknown
+116,Berekum Holy Family Hospital,hospital,Berekum,Brong Ahafo Region,0.03937633,False,Bono
+81,Ares Centre of Excellence - Ghana,hospital,Tema,,0.020715483,False,Unknown
+644,Sisters Hospitallers' English Province,,Dompoase,Ashanti Region,0.3898831,True,Ashanti
+697,Stratford Health Care,clinic,Kojokrom/Sekondi,,0.06157377,False,Unknown
+324,Heel International Homeopathic Clinic,clinic,Accra,,0.041858077,False,Unknown
+351,Integrity Care Services,,Kumasi,,0.103548035,False,Unknown
+45,Akan Herbal Treatment Center,clinic,Kumasi,,0.0611576,False,Unknown
+523,Obuasi RIDGE Hospital,hospital,Obuasi,,0.0124503365,False,Unknown
+309,"Gwollu Hospital, Sissala West District, Gwo, Ghana",hospital,Gwo,Sissala West District,0.017779402,False,Sissala West District
+284,Ghana Primewood Clinic,clinic,Western,Takoradi,0.027094679,False,Takoradi
+558,Pisgah Advanced Medical Center,hospital,Bechem,,0.021506285,False,Unknown
+552,Pentecost Hospital,hospital,Madina,Accra,0.041404508,False,Greater Accra
+694,St.Ann's Midwife/Maternity,clinic,Oseikojokrom,Western Region,0.059766512,False,Western
+83,Asafo Agyei Hospital Daban,hospital,Kumasi,,0.035854205,False,Unknown
+117,Best Care Natural Clinic,clinic,Tamale,,0.07139009,False,Unknown
+661,St Marks Anglican Clinic,clinic,Bibiani,,0.028923048,False,Unknown
+343,Imam Ali Spiritual And Herbal Center,,,,0.039232846,False,Unknown
+92,Ateiku Christian Hospital,hospital,Ateiku,,0.020664455,False,Unknown
+764,"Vantage Medical Solutions, No. 3006 Forico Mall, Mission Street, Osu, Accra, Ghana",,Osu,Greater Accra,0.02783103,False,Greater Accra
+93,Atlantic Eye Clinic - ICare,clinic,Weija,,0.087034725,False,Unknown
+101,Azimbe Hospital,hospital,Bawku,,0.021178424,False,Unknown
+664,St Theresas Health Centre,,Nope,,0.020979263,False,Unknown
+663,"St Peter's Hospital, Jacobu",hospital,Jacobu,,0.020948544,False,Unknown
+776,Walewale Hospital,hospital,Walewale,Northern,0.05820041,False,Northern
+454,Max-Mum Medical Centre,hospital,Accra,,0.020152062,False,Unknown
+488,Modern Way Herbal Clinic,hospital,Sunyani,,0.17780502,False,Unknown
+331,"Holy family Hospital, Berekum",hospital,Berekum,,0.03376203,False,Unknown
+476,Merkot Pharmacy,farmacy,Accra,,0.4109726,True,Unknown
+26,Adjoum Community Clinic,clinic,Adjoum,Western,0.027446084,False,Western
+24,Adidome Government Hospital,hospital,Adidome,Central Tongu District,0.055159777,False,Central
+787,Wipe-Away Foundation,,Damongo,,0.2658993,True,Unknown
+788,Wisebrain vision and optical services,,Accra,,0.06313553,False,Unknown
+698,Suhum Government Hospital,hospital,Suhum,,0.19547091,False,Unknown
+702,Sunyani Teaching Hospital,hospital,Sunyani,,0.090263486,False,Unknown
+703,Supercare Specialist Medical & Ho Fertility Center,hospital,Ho,,0.049490847,False,Unknown
+704,Superior Medical Centre,hospital,Greater Accra,,0.15359677,False,Unknown
+22,Adansi Comunity Clinic,clinic,,,0.10067493,False,Unknown
+463,Medobal Ghana,,Kumasi,,0.02215657,False,Unknown
+466,MedTech Laboratory,,Accra,,0.06997226,False,Unknown
+41,AIH lab & X-ray Center,clinic,Tema,,0.6860144,True,Unknown
+453,Matthias Catholic Hospital,hospital,Yeji,Techiman Municipal,0.028619407,False,Techiman Municipal
+457,Medicaid Diagnostics & Laboratory,,Koforidua,,0.1542387,False,Unknown
+781,Wellembelle Health Centre,clinic,,Upper West Region,0.07002923,False,Upper West
+786,Wind of Change Eyecare and Optical Centre,clinic,Cape Coast,,0.078761026,False,Unknown
+795,Zabzugu Tatale District Hospital,hospital,Zabzugu Tatale,,0.0924122,False,Unknown
+334,"Home of Brains, Aflao",,Aflao,,0.1616892,False,Unknown
+335,HopXchange Catholic Medical Centre,hospital,Kumasi,Ashanti,0.033823587,False,Ashanti
+336,"House of Hope Hospital, Abofour",hospital,Offinso,,0.101206794,False,Unknown
+337,House to House Ralph Medical Laboratory Service,,Accra,,0.019149777,False,Unknown
+538,Our Lady Of Fatima Clinic - Ghana,clinic,,,0.06734407,False,Unknown
+86,Asawinso Seventh-day Adventist Clinic,clinic,Sefwi Asawinso,,0.050168272,False,Unknown
+94,Avril Clinic,clinic,Akaporiso,Ashanti,0.055720124,False,Ashanti
+540,Our Ladys Clinic,clinic,,Western,0.09587799,False,Western
+313,Hahnemann Center for Homeopathy,hospital,Accra,,0.017481469,False,Unknown
+314,Happy Hospital,hospital,Berekum,,0.05198676,False,Unknown
+319,Health And Happiness Herbal Center,hospital,Anloga,,0.03088245,False,Unknown
+320,Health Plus Clinic,clinic,Tarkwa,,0.29190817,True,Unknown
+765,Vebs Medical Centre,clinic,Accra,Greater Accra,0.07892821,False,Greater Accra
+684,St. Luke's Clinic,clinic,Accra,,0.029440721,False,Unknown
+668,St. Anthony’s Catholic Hospital,hospital,Dzodze,Volta Region,0.029878676,False,Volta
+325,Herbacine Natural Clinic,,Kumasi,,0.024499098,False,Unknown
+326,Highway Dental Clinic,clinic,Accra,,0.08150368,False,Unknown
+545,PapSon Medical Diagnostic Centre,,Accra,,0.013116964,False,Unknown
+353,"Inter-Star Eye Clinic and Laser Center - Tamale, Ghana",clinic,Tamale,,0.1665554,False,Unknown
+524,Ocean-View Eye Care,doctor,Goaso,,1.0,True,Unknown
+301,GPHA Clinic,clinic,Takoradi,,0.0648704,False,Unknown
+307,Greenville Hospital,hospital,Tema,,0.033450276,False,Unknown
+308,Gutcare Specialist Clinic,,Accra,,0.036602978,False,Unknown
+553,Pentecost Hospital Ayanfuri,hospital,Ayanfuri,,0.018419592,False,Unknown
+554,Perfect Hands Clinic,clinic,Tema,,0.045814667,False,Unknown
+561,PlusLab and Diagnostics – Somanya,,Somanya,,0.24273585,False,Unknown
+669,"St. Anthony’s Clinic - Community 1, Tema",clinic,Tema,,0.043558322,False,Unknown
+120,Bibiani Municipal Hospital,hospital,Bibiani,,0.028734883,False,Unknown
+124,Blueprint DNA Organization,,Accra,,0.022442156,False,Unknown
+125,Boafo Yena Clinic,clinic,Ahimakrom,Western,0.025597606,False,Western
+568,Precise Specialist Clinic,clinic,Kumasi,,0.28070912,True,Unknown
+75,Anwiam Hospital,hospital,Kumasi,,0.27916065,True,Unknown
+80,APOWA HEALTH CENTRE,,Agona Nkwanta,,0.018949553,False,Unknown
+84,Asafo Boakye Specialist Hospital,hospital,Kumasi,,0.033570323,False,Unknown
+672,ST. FF Specialist Hospital,hospital,,,0.012724096,False,Unknown
+528,OKB Hope Foundation,,Kumasi,,0.18456766,False,Unknown
+531,"One-Heart Medical Center, Lamashegu-off Kumasi Accra road, Tamale, Ghana",hospital,Tamale,,0.049416192,False,Unknown
+654,Specialist Health Ghana Dental Clinic,clinic,Accra,,0.085345894,False,Unknown
+133,Brebre CHPS,,Brebre,Western,0.08634024,False,Western
+134,Britannia Medical Centre,hospital,Tema,,0.47957063,True,Unknown
+291,Global Dialysis Centre,clinic,Accra,,0.21701913,False,Unknown
+295,Gloria Memorial Hospital,hospital,Akwatialine,Ashanti,0.040240116,False,Ashanti
+589,Rayben Diagnostics Limited,,Kumasi,,0.022427535,False,Unknown
+536,Ospedale Didattico di Tamale,hospital,Tamale,Northern Region,0.47400448,True,Northern
+362,Jireh Eye Medical Centre,,Tema,,0.06863169,False,Unknown
+368,Juabo Community Clinic,clinic,,,0.11614064,False,Unknown
+372,Kpandai District Hospital,hospital,Kpandai,Northern Region,0.06827033,False,Northern
+396,Kristo Nti Maternity Home,,Wenchi,,0.05421769,False,Unknown
+397,Kropo Charity Hospital,hospital,,,0.050668757,False,Unknown
+378,KEFAM HEALTH SERVICES,hospital,BUOKROM,,0.05095107,False,Unknown
+383,Kings Dental Clinic,clinic,Kumasi,,0.10534117,False,Unknown
+385,KK Health CARE Center,hospital,Swedru,,0.09661513,False,Unknown
+581,Quality Health Care,hospital,Mampong,Ashanti Region,0.018581724,False,Ashanti
+276,Genesis Homeopathic Clinic,clinic,Tema,,0.033324704,False,Unknown
+280,Ghana Cleft Foundation,,Kumasi,,0.17330986,False,Unknown
+256,Forever Champion Health Centre,clinic,Accra,,0.040203817,False,Unknown
+647,Smile Family Clinic,clinic,Bimbila,,0.033097774,False,Unknown
+651,SOMACAS Hospital,hospital,Nkwanta,,0.23860139,False,Unknown
+510,Nkonya Community Clinic,clinic,Nkonya,Western,0.02413126,False,Western
+502,New Abirem Government Hospital,hospital,New Abirim,,0.09451153,False,Unknown
+737,The Thyroid Ghana Foundation,,Accra,,0.22047925,False,Unknown
+742,TOCS Laboratory,,Accra,,0.18603273,False,Unknown
+505,New Legon Medical Centre,,Accra,Greater Accra Region,0.014328731,False,Greater Accra
+252,Fire Medical Centre - Ghana,clinic,James Town,Greater Accra,0.11858051,False,Greater Accra
+261,Franklyn Medical Center,,Accra,,0.013041401,False,Unknown
+248,"Faith Valley Clinic - Tarkwa, Ghana",clinic,Tarkwa,Western Region,0.030007781,False,Western
+138,Buck Hospital & Fertility Center,hospital,Accra,,0.17208758,False,Unknown
+142,CAMFAP Maternity Clinic,clinic,,Ashanti,0.07960843,False,Ashanti
+147,Cathedral Herbal & Fertility Clinic,clinic,,,0.06363322,False,Unknown
+152,Central Regional Police Clinic,,Ghana,,0.34673816,True,Unknown
+127,Boinzan Anglican Clinic,clinic,Sefwi Boinzan,,0.031339306,False,Unknown
+631,SDG Health Group,,Cape Coast,,0.025173206,False,Unknown
+595,Richkom Scientific Herbal Clinic,clinic,Accra,,0.058262885,False,Unknown
+61,Alpha Medical Diagnostic Services,,Kumasi,,0.0076714484,False,Unknown
+62,Ama Dansowaa Maternity Home,,,,0.079510435,False,Unknown
+511,NewLeaf Hospital,hospital,Techiman,,0.28196034,True,Unknown
+229,Elubo Health Center,,,,0.0898971,False,Unknown
+237,"Evangelical Church of Ghana Hospital, Kpandai",hospital,Kpandai,Northern Region,0.051381942,False,Northern
+239,Evergreen Natural Wellness Clinic,clinic,Accra,,0.07063106,False,Unknown
+244,Eye Hospital In Accra,hospital,Accra,,0.23404549,False,Unknown
+222,Eden Specialist Hospital,hospital,North Kaneshie,Greater Accra,0.08421442,False,Greater Accra
+223,Ef-Dek Ear Center,,Accra,,0.013400026,False,Unknown
+611,"Saint Helier Clinic - Windy Ridge Extension, Takoradi",clinic,Takoradi,,0.042178627,False,Unknown
+206,Doku Memorial Clinic,hospital,Madina,Greater Accra,0.081668295,False,Greater Accra
+625,Sape Agbo Memorial Hospital,hospital,Accra,Greater Accra,0.06897329,False,Greater Accra
+610,"Saint Edwards Hospital, Dwinyama",hospital,Kumasi,Ahafo Ano South-East,0.035035633,False,Ahafo
+226,Egon German Clinic,clinic,"Abelenkpe, Accra",Greater Accra,0.046604756,False,Greater Accra
+408,"La General Hospital, Accra Ghana",hospital,Accra,,0.038194146,False,Unknown
+409,La Road Dental Clinic,clinic,Accra,,0.07821551,False,Unknown
+632,Sefwi-Bekwai Health Centre,clinic,SEFWI BEKWAI,Western Region,0.09471446,False,Western
+635,Seyram Stem Cell Therapy,,Accra,,0.01618699,False,Unknown
+638,Shekhinah Clinic,clinic,Tamale,Northern Region,0.065559044,False,Northern
+708,Swedru Municipal Hospital,hospital,Agona Swfru,,0.03088246,False,Unknown
+753,Ummah Medical Center,,Tamale,,0.009264447,False,Unknown
+754,Universal Health Clinic,clinic,Tamale,,0.043997195,False,Unknown
+494,Multicare Health Care Center,hospital,Accra,Greater Accra,0.064515695,False,Greater Accra
+725,Tepa District Hospital,hospital,,,0.0924122,False,Unknown
+430,Luke Society Ghana,,Kasei (via Ejura),Ashanti Region,0.43125382,True,Ashanti
+43,Aisha Hospital,hospital,Tamale,,0.34034234,True,Unknown
+185,Dar-Bem Clinic,clinic,Ashaiman,Greater Accra,0.09942876,False,Greater Accra
+188,Datwell_Medical,,Accra,,0.17878756,False,Unknown
+714,Takoradi Family Health Specialist Hospital,hospital,Takoradi,,0.050141286,False,Unknown
+716,Tamale West Hospital,hospital,Tamale,,0.09317557,False,Unknown
+620,Salem Maternity Home,,,Western,0.07806485,False,Western
+192,"Dental Service - Dzorwulu, 1st Osu Badu Street, Accra, Ghana",dentist,Accra,,0.22165999,False,Unknown
+194,Deseret Hospital Accra Ghana,hospital,Accra,,0.1762846,False,Unknown
+18,Achimota Hospital,hospital,ACCRA,,0.023175973,False,Unknown
+52,Al-Ayar Hospital,hospital,Accra,Greater Accra,0.06897329,False,Greater Accra
+53,Al-haq Herbal Center,clinic,Walewale,Northern Region,0.097484134,False,Northern
+56,All Joy Dental Clinic,clinic,Accra,,0.07830341,False,Unknown
+431,Lynn Care Foundation,,Accra,,0.14633606,False,Unknown
+434,MAGGIE'S MATERNITY HOME,,Juaboso,,0.079510435,False,Unknown
+436,Mampong Quality Hospital,hospital,Mampong,Ashanti,0.04177697,False,Ashanti
+168,Comboni Centre Onlus,,Sogakope,,0.15122616,False,Unknown
+171,Core Care Diagnostic Centre,clinic,Accra,,0.17004934,False,Unknown
+174,Craddle Care Maternity Hospital Trust,hospital,Accra,,0.058602273,False,Unknown
+180,Daksa Dental Clinic,clinic,Kumasi,,0.040867906,False,Unknown
+183,DANK Natural Healthcare Complex,clinic,Kumasi,,0.045385517,False,Unknown
+470,"Memento Eye Center, Dodowa",,Dodowa,,0.07227205,False,Unknown
+7,A&a Medlove Medical Centre,,Accra,,0.74541354,True,Unknown
+161,Christian Medical Dental Services,dentist,Nungua,,0.23135039,False,Unknown
+165,City of Hope,,Accra,,0.061811112,False,Unknown
+167,COA Research & Manufacturing,,Cape Coast,,0.022957325,False,Unknown
+437,Mamudu PHC Clinic,clinic,Mamudukrom,Western,0.021495676,False,Western
+448,Marie Stopes Ghana (Takoradi Clinic),clinic,Takoradi,,0.06073775,False,Unknown
+28,Adumkrom PHC Clinic,clinic,Adumkrom,Western,0.025306936,False,Western
+774,VRA HOSPITAL ABOADZE,hospital,Aboadze,,0.102685176,False,Unknown
+36,Agyakwa Hospital - Nkawkaw,hospital,Nkawkaw,,0.0151586,False,Unknown
+38,Ahmadiyya Muslim Hospital Asokore Ashanti,hospital,Asokore,,0.01721098,False,Unknown
+797,"Zoe Royal Hospital - Fertility Centre, Accra, Ghana",hospital,Accra,,0.03470805,False,Unknown
+790,Woodland Medical Centre,,Atebubu,,0.007803952,False,Unknown
+794,You Hao Dental Clinic,clinic,Accra,,0.080054514,False,Unknown
+690,St. Michael’s Catholic Hospital,hospital,Pramso,Ashanti,0.012596397,False,Ashanti
+64,Amantenaman Health Centre,,Nyinamponase,Ashanti,0.0970139,False,Ashanti
+76,Anyaa Polyclinic,clinic,Accra,,0.027696326,False,Unknown
+73,Ankaful Psychiatric Hospital,hospital,Cape Coast,,0.16979907,False,Unknown
+72,Ankaful Leprosy & General Hospital,hospital,Ankaful,KEEA,0.16943042,False,Keea
+482,Minutes Medical and Fertility Hospital,hospital,Accra,,0.02232832,False,Unknown
+481,Metropolis Ghana,,Accra,,0.017916422,False,Unknown
+478,Methodist Faith Healing Hospital,hospital,,Ashanti,0.26942012,True,Ashanti
+477,"Methodist Clinic, Amakom-lake Bosomtwe",clinic,,,0.03428886,False,Unknown
+392,Kokofu General Hospital,hospital,Kokofu,,0.013287281,False,Unknown
+743,Tolon District Hospital,hospital,Tolon,,0.045230452,False,Unknown
+455,MDS-Lancet Laboratories,,Accra,,0.016450707,False,Unknown
+439,Manhyia District Hospital,hospital,,Ashanti Region,0.09977527,False,Ashanti
+435,Makango Clinic,hospital,Kabiase Gonja,,0.039153427,False,Unknown
+487,MMALABS (KUMASI MAIN),,Kumasi,,0.011886277,False,Unknown
+433,Madina Polyclinic Kekele,,Accra,,0.010232561,False,Unknown
+404,Kwadaso Community Hospital,hospital,Kwadaso,,0.017134516,False,Unknown
+446,Marie Stopes Ghana (Ashiaman Clinic),clinic,Ashaiman,,0.061214965,False,Unknown
+441,Manna Mission Hospital,hospital,Accra,Greater Accra,0.05653916,False,Greater Accra
+407,La Fe Eye Care & Optical Services,,Accra,,0.066418044,False,Unknown
+419,Le Mete NGO Ghana,,Tamale,,0.5018108,True,Unknown
+504,New Hope Clinic,clinic,Enyinabrim,Western,0.15993938,False,Western
+366,Jopizo Lab and Diagnostic Centre,,Takoradi,Western Region,0.014921969,False,Western
+364,John Arthur Mememorial Clinic,clinic,Takoradi,Western,0.039047666,False,Western
+520,Obeyeyie Medical Centre,clinic,Amasaman,,0.1100247,False,Unknown
+87,Ashaiman - MDC,clinic,Tema,,0.4237432,True,Unknown
+761,VALCO HOSPITAL,hospital,,Greater Accra Region,0.10727829,False,Greater Accra
+740,"Third Eyecare and Vision Centre - Kanda highway, Accra, Ghana",,Accra,,0.06854,False,Unknown
+678,St. John Of God prosthetics and orthotics rehab. Center,,Sunyani,,0.014128966,False,Unknown
+695,"St.Joseph Hospital, Nkwanta",hospital,Nkwanta,,0.018277228,False,Unknown
+78,Anyinasusu SDA Centre,clinic,Anyinasusu,Ashanti,0.039644707,False,Ashanti
+77,Anyinasuso Maternity Home,,Anyinasuso,Ashanti,0.070384145,False,Ashanti
+338,HS Daan Herbal Clinic,clinic,Accra,,0.02586812,False,Unknown
+310,Gyanwah Memorial Maternity Home,,Nsawura,Western,0.0619923,False,Western
+128,Bole Hospital,hospital,Bole,,0.039153446,False,Unknown
+630,SDA Valley View Hospital,hospital,Accra,,0.017409375,False,Unknown
+272,GCD Hospital,hospital,Akwatia,Eastern,0.114799544,False,Eastern
+149,"Catholic Hospital, Anfoega",hospital,,,0.013124626,False,Unknown
+584,Quest Medical Imaging,,Accra,Greater Accra,0.22384953,False,Greater Accra
+574,Primecare Medical Center GH,,Accra,,0.021845754,False,Unknown
+583,"Queens Medical Centre - Accra, Ghana",hospital,Accra,,0.037897915,False,Unknown
+556,"Philta Eye Care - East Legon, LA-Bawaleshie, Accra, Ghana",clinic,Accra,,0.075855866,False,Unknown
+321,Health Quest Medical Laboratory,,Accra,,0.012814145,False,Unknown
+323,Heavens Diagnostic Services H-LAB,,Sunyani,,0.014128966,False,Unknown
+329,Ho Teaching Hospital,hospital,Ho,,0.014316491,False,Unknown
+546,Passion Clinic,,Accra,,0.016261434,False,Unknown
+550,Pearl Dental Clinic,clinic,Accra,,0.08514802,False,Unknown
+297,God Cares Community Hospital,hospital,Tamale,,0.031430796,False,Unknown
+650,Sogakope District Hospital,hospital,,,0.09165636,False,Unknown
+543,Palza Medical Center,,Accra,,0.018965786,False,Unknown
+118,BestSmile Dental Clinic,clinic,Accra,,0.039935235,False,Unknown
+126,Bodi Anglican Clinic - Ghana,clinic,,Western,0.011069686,False,Western
+106,Baptist Medical Centre,hospital,Nalerigu,,0.13300782,False,Unknown
+662,St Mathew's Clinic,clinic,Greater Accra,,0.045265455,False,Unknown
+772,Vitalis Chiropractic & Wellness,,Accra,Greater Accra,0.23165293,False,Greater Accra
+381,King's Diagnostics,,Tamale,,0.024349945,False,Unknown
+489,"MonMed Laboratory Services, 88 Ameyaw Street, Techiman, Ghana",,Techiman,,0.017215118,False,Unknown
+469,Meland Pharmacy,farmacy,Cape Coast,,0.4072365,True,Unknown
+613,Saint John Ambulance Ghana,,Accra,,0.14788266,False,Unknown
+240,Evergreen Opticals,,Accra,,0.0723064,False,Unknown
+221,Eastside Life Hospital,hospital,Bolgatanga,Upper East Region,0.24527022,True,Upper East
+607,Safo - Adu Hospital,hospital,Kumasi,Ashanti Region,0.02201947,False,Ashanti
+11,Abura Health Centre,,Abura,,0.0099346265,False,Unknown
+13,Accra Newtown Islamic Hospital,hospital,Accra Newtown,,0.27412528,True,Unknown
+775,Wa Municipal Hospital,hospital,Wa,,0.014925637,False,Unknown
+782,West End Clinic - Takoradi,hospital,Takoradi,,0.014696514,False,Unknown
+199,Divine Mother and Child Foundation -DMAC,,Koforidua,,0.15626292,False,Unknown
+575,"Prince Emmanuel Clinic - Old Tafo near OKESS, Kumasi, Ghana",clinic,Kumasi,,0.04514215,False,Unknown
+720,Tatale District Catholic Hospital,hospital,Tatale,Northern,0.047173098,False,Northern
+721,Tema Christian Eye Center,,Tema,,0.064089924,False,Unknown
+193,DerArt Dental Clinic,clinic,Kumasi,,0.084526084,False,Unknown
+603,Royal Natural Medical Centre,hospital,Accra,,0.033323705,False,Unknown
+246,FAB Mercy Dialysis Center,,Accra,,0.21457645,False,Unknown
+712,"Taifa Medical Centre - Accra, Ghana",hospital,Accra,,0.022058122,False,Unknown
+594,Revoobit MirraCell+ Gh.,,,,0.023416769,False,Unknown
+169,Community 22 Polyclinic,hospital,Tema,,0.4185239,True,Unknown
+163,Church of God Health Services,,Apaaso,Ashanti Region,0.13682221,False,Ashanti
+189,De Santi Dental Clinic,,Accra,,0.06474955,False,Unknown
+271,"Gb Dental Clinic (Kwashieman Bus Stop, Kwashieman, Ghana)",clinic,Kwashieman,,0.115078524,False,Unknown
+293,Global Medical Centre,clinic,Madina,Greater Accra,0.07464062,False,Greater Accra
+709,Synlab Ghana (Koforidua Depot),,Koforidua,,0.01641093,False,Unknown
+563,"Police Clinic, Maxwell Road",clinic,,Western,0.0,False,Western
+303,Grace-Care Laboratory Services and Supplies,,Kumasi,,0.030580856,False,Unknown
+3,2BN Military Hospital,hospital,Apremdo,Western,0.15553436,False,Western
+683,St. Luke Catholic Hospital,hospital,Apam,Central,0.04595104,False,Central
+676,St. John of God Catholic Hospital,hospital,Duayaw Nkwanta,Ahafo,0.16272618,False,Ahafo
+674,St. Gregory Catholic Hospital,hospital,Gomaa Buduburam,Central Region,0.04595104,False,Central
+766,Viceroy Medical Centre,hospital,Agona Ashanti,,0.014657737,False,Unknown
+386,KLIMOVIC MEMORIAL HOSPITAL,clinic,,Central Region,0.10351319,False,Central
+447,Marie Stopes Ghana (Santasi Clinic),clinic,Santasi,,0.0652219,False,Unknown
+732,The Hunger Project-Ghana,,,,0.25463834,True,Unknown
+730,The David's Medical Centre,hospital,Yabraso,Bono East Region,0.06897701,False,Bono
+427,Lizzie's Maternity Home,,,,0.06356429,False,Unknown
+451,Mary Lucy Hospital And Fertility Centre,hospital,Accra,,0.03470805,False,Unknown
+473,Mepom RCH,hospital,Mepom,,0.033191435,False,Unknown
+422,Lenzvision Optical Center,,Accra,,0.06444514,False,Unknown
+424,Life Sciences Medical Centre,clinic,Cape Coast,,0.07804563,False,Unknown
+5,"3E Medical Center - Accra, Ghana",,Accra,,0.012316661,False,Unknown
+71,Anhwiaso Health Centre,,,,0.01904636,False,Unknown
+99,Ayifua Clinic,clinic,Accra,,0.057244238,False,Unknown
+367,Juaben Government Hospital,hospital,Juaben,,0.033693388,False,Unknown
+363,Joebel Herbal Centre,,Accra,,0.02717739,False,Unknown
+388,Koampaul Healthcare,,Accra,Accra,0.036453437,False,Greater Accra
+390,"Koforidua Regional Hospital, Eastern Region, Ghana",hospital,Koforidua,Eastern Region,0.04034814,False,Eastern
+532,Onyame Akwan Maternity Home,,MPATUOM,ASHANTI REGION,0.053809334,False,Ashanti
+506,New Life Hospital,hospital,Adoagyiri-adeiso,,0.1395978,False,Unknown
+112,Beijing Clinic Ghana,hospital,Osu,Accra,0.0528336,False,Greater Accra
+711,Synlab Ghana (Kumasi Bantama Depot),,Kumasi,,0.01828353,False,Unknown
+286,Ghanuba Hospital,hospital,Accra,,0.024717286,False,Unknown
+570,Presbyterian Community Based Rehabilitation,,Sandema,,0.15395728,False,Unknown
+144,Cape Coast Teaching Hospital,hospital,Tamale,,0.347335,True,Unknown
+143,Cape Coast Metropolitan Hospital,hospital,Cape Coast,,0.034553643,False,Unknown
+634,Seria Memorial Maternity Home,,Sefwi Boadi,Western,0.0619923,False,Western
+658,St Anthony's Hospital in Dzodze Ghana,hospital,Dzodze,,0.0931712,False,Unknown
+541,Owusu Memorial Hospital,hospital,Sunyani,,0.18240683,False,Unknown
+345,Imperial Nursing And Home-care Services,,,,0.14285178,False,Unknown
+349,Insight Homeopathic Clinic and Maternity Centre,clinic,Accra,,0.07953409,False,Unknown
+102,"Baiden Ghartey Hospital, Pedu",hospital,Cabo Corso,,0.08462909,False,Unknown
+122,Blackwood Optometry,,Tema,,0.017512836,False,Unknown
+115,Benso Health Centre - Ghana,,Benso,Western,0.010680432,False,Western
+384,Kintampo Sunkwa Clinic,clinic,Kintampo,,0.031216115,False,Unknown
+137,Bryant Mission Hospital,hospital,Obuasi,Ashanti Region,0.019874942,False,Ashanti
+652,Sonotech,,Osu,,0.02186025,False,Unknown
+164,City Centre Clinic,clinic,KUMASI METROPOLITAN,ASHANTI,0.03205367,False,Ashanti
+586,Rabito Clinic,hospital,Kumasi,,0.03605106,False,Unknown
+318,Heal Komfo Anokye,,Kumasi,,0.16045181,False,Unknown
+328,Ho Municipal Hospital,hospital,Ho,,0.038476497,False,Unknown
+330,Hohoe Government Hospital,hospital,Hohoe,,0.03083537,False,Unknown
+157,"Children's Hospital, Okomfo Anokye Road, Kumasi, Ghana",hospital,Kumasi,,0.12958737,False,Unknown
+209,Dompim Health Centre,,Dompim,Western,0.010680432,False,Western
+756,University of Education College of Technology Clinic,clinic,Tanoso,Ashanti,0.032040387,False,Ashanti
+752,"UMAT Clinic - Western, Tarkwa, Ghana",clinic,Tarkwa,Western Region,0.019748269,False,Western
+210,Donkorkrom Presby Hospital,hospital,Odonkawkrom,,0.039153446,False,Unknown
+214,Dr. Power Herbal Clinic TV,,Accra,,0.17135933,False,Unknown
+218,Dunkwa Municipal Hospital,hospital,Dunkwa-On-Offin,,0.014657737,False,Unknown
+576,Princess Louise Marie childrens hospital,hospital,Accra,,0.08876409,False,Unknown
+158,Chirano Health Centre,,Bibiani,,0.09874722,False,Unknown
+597,Rivers Dental Ghana,clinic,Accra,,0.10239426,False,Unknown
+202,Divine Trinity Health Center,,Sefwi Bekwai,,0.067884795,False,Unknown
+623,Sam Jonah Hospital,,Tarkwa,Western,0.009039002,False,Western
+231,Emofra Africa,,,,0.15373857,False,Unknown
+605,Sacred Heart Hospital,hospital,,Volta Region,0.013398701,False,Volta
+17,ACHIASE HEALTH CENTRE,,,Ashanti Region,0.10705409,False,Ashanti
+33,AG CARE Ghana,,Accra,,0.15644512,False,Unknown
+614,"Saint John of God Hospital, Duayaw Nkwanta",hospital,Duayaw Nkwanta,,0.32509267,True,Unknown
+2,1st Foundation Clinic,clinic,Accra,,0.06173827,False,Unknown
+748,"Trustcare Hospital. South Suntreso, Kumasi",hospital,Kumasi,,0.034743007,False,Unknown
+747,Trust Hearing solutions,clinic,Tema,,0.040599138,False,Unknown
+10,Abuakwa Maternity Home,hospital,Abuakwa,Ashanti,0.057274804,False,Ashanti
+55,Alice Memorial Maternity Clinic - Ghana,clinic,Tepa,Ashanti,0.08132883,False,Ashanti
+32,"African Vision Clinic - Adenta Housing down, Accra, Ghana",clinic,Accra,,0.11235638,False,Unknown
+49,Akora Health Care,,Kumasi,,0.016661622,False,Unknown
+471,Mempeasem Health Centre,,Mempeasem,,0.012621734,False,Unknown
+4,37 Military Hospital,hospital,Accra,,0.04942947,False,Unknown
+14,Accra Physiotherapy & Sports Injury Clinic,,Accra,,0.043084625,False,Unknown
+9,Aboraa Hospital,hospital,Accra,,0.05419044,False,Unknown
+465,MEDsource Diagnostic Centre,clinic,Kumasi,,0.0696784,False,Unknown
+30,Afamaso Maternity Home,,Afamaso,Ashanti,0.06542761,False,Ashanti
+50,Akrofrom Health Centre - Ghana,,Akrofrom,Ashanti Region,0.026269803,False,Ashanti
+37,Ahenema Kokoben Health Centre,hospital,Kumasi,,0.03439233,False,Unknown
+21,Adabraka Polyclinic (Ridge Hospital OPD),hospital,Accra,,0.05419044,False,Unknown
+238,"Ever-Youth Alternative Health Center (South Suntreso off Cambridge School, Kumasi, Ghana)",,Kumasi,,0.0372982,False,Unknown
+230,Emmanuel Eye Clinic - Shiashie,clinic,Accra,,0.09361961,False,Unknown
+228,Elpis Wound Care Center,,Accra,Ledzokuku-Krowor,0.056338437,False,Ledzokuku-Krowor
+198,Digestive Diseases Aid,,,,0.24580601,True,Unknown
+717,Tamohec Clinic,clinic,Tarkwa,Western,0.044743706,False,Western
+249,Family Health Centre,hospital,Accra,,0.05419043,False,Unknown
+265,Ga South Municipal Hospital,hospital,Accra,,0.045772184,False,Unknown
+235,Essandoh Memorial Clinic,clinic,Western,,0.053213906,False,Unknown
+250,Fankyenebra Hospital,hospital,Kumasi,,0.26141676,True,Unknown
+592,Renie Chemist Ltd,,Accra,,0.022351665,False,Unknown
+590,Redeemer Hospital,hospital,Tarkwa,,0.035449404,False,Unknown
+615,Saint Johns Clinic and Maternity Home Company,clinic,Cape Coast,,0.06823549,False,Unknown
+187,Datmac Laboratory Services,,Accra,,0.019599244,False,Unknown
+162,Church of Christ Health Centre,hospital,Yendi,,0.03294436,False,Unknown
+294,Gloria Memorial Clinic,clinic,,,0.043424223,False,Unknown
+287,"Ghapoha Hospital Takoradi, Ghana",hospital,Takoradi,,0.038575098,False,Unknown
+259,Fr. Thomas Alan Rooney Memorial Catholic Hospital,hospital,Asankrangua,Western Region,0.026071355,False,Western
+282,Ghana Make A Difference,,,Central Region,0.15855327,False,Central
+278,Ghana Adventist Health Services,,WIAMOASE,ASHANTI,0.13879688,False,Ashanti
+585,Rabboni Christian Hospital Limited,hospital,Tarkwa,,0.029992701,False,Unknown
+582,Queen Victoria Maternity Home,,ANOLGA,ASHANTI,0.044107914,False,Ashanti
+578,Prison's Clinic,hospital,Sunyani,,0.03886812,False,Unknown
+577,Princess Town Health Centre,,Agona Nkwanta,,0.012518085,False,Unknown
+549,Peace And Love Hospital - Accra,hospital,Accra,,0.037003137,False,Unknown
+305,Green Hill Natural Health Centre,,Kpando,,0.024610626,False,Unknown
+302,Grace Homeopathic Clinic,clinic,Accra,,0.051342037,False,Unknown
+569,Pregnacare Plus,,Accra,,0.055363465,False,Unknown
+566,Port Clinic,hospital,Tema,,0.033058606,False,Unknown
+565,Pope John Paul II Catholic Medical Centre,hospital,Jamasi,Ashanti Region,0.0141821215,False,Ashanti
+642,Sincere Herbal Research and Treatment Center,clinic,Kintampo,,0.34738612,True,Unknown
+637,Shales Medical Services,,Tema,,0.04570549,False,Unknown
+148,"Catholic Health Service Trust, Ghana",,Accra,,0.19678727,False,Unknown
+141,C&J Medicare Hospital,hospital,Accra,,0.041166767,False,Unknown
+537,Osu Rabito Clinic,clinic,Accra,,0.044677507,False,Unknown
+298,God's Glory Hospital ( Kronom ),hospital,Kumasi,,0.044083837,False,Unknown
+317,HCDP Ghana,,Ho,Volta Region,0.15368167,False,Volta
+315,"Hashem Private Dental Clinic, Akosombo, Atimpoku",clinic,Akosombo,,0.11238463,False,Unknown
+559,Planned Parenthood Association of Ghana,,Kparigu,,0.16890234,False,Unknown
+522,Obuasi Diagnostic Center,,Obuasi,,0.017390987,False,Unknown
+376,Kate Afram Clinic,clinic,,,0.07405589,False,Unknown
+341,IAMA Diagnostic Ultrasound & Medical Centre,,Kumasi,,0.03507147,False,Unknown
+544,Pantang Hospital,hospital,Oyarifa,,0.046884473,False,Unknown
+542,Paintsil Diagnostic Services And Medical Supplies,,Kumasi,,0.014896892,False,Unknown
+646,Small Animal Teaching Hospital University of Ghana,hospital,Accra,,0.041109063,False,Unknown
+671,St. Edward Clinic,hospital,Bogoso,Western,0.026071355,False,Western
+667,St. Anthony Ann Catholic Hospital,hospital,Donyina,Ejisu Municipal,0.029506233,False,Ejisu Municipal
+685,St. Martin de Porres Catholic Hospital,hospital,Eikwe,Western,0.029495724,False,Western
+769,Virtue Medical Centre,hospital,,Upper West,0.110641085,False,Upper West
+379,Kekele Madina Polyclinic,hospital,Accra,,0.045772165,False,Unknown
+377,KDS Wellnesscentre,clinic,Accra,,0.033427607,False,Unknown
+371,Jubile Catholic Children Hospital,hospital,Apowa,Western,0.09262708,False,Western
+365,Joncoby Care Pharmacy,farmacy,Akatsi,,0.40738624,True,Unknown
+534,"Orthopedic Training Centre, Nsawam",,Nsawam,,0.15682183,False,Unknown
+734,The Salvation Army Health Services,,,Central,0.13832052,False,Central
+763,Van-J Eye Care Dansoman,,Accra,,0.066266365,False,Unknown
+762,Valley View Adventist Hospi,hospital,Techiman,,0.033132233,False,Unknown
+679,"St. Joseph Catholic Hospital, Nkwanta",hospital,Nkwanta,Oti Region,0.10806541,False,Oti
+696,Star Lab Diagnostic- Yendi,hospital,Yendi,,0.03018513,False,Unknown
+497,Nadowli District Hospital,hospital,Nadawli,,0.047065787,False,Unknown
+440,Mankranso Government Hospital,hospital,Mankranso,,0.039153446,False,Unknown
+411,Labone Medical Centre,hospital,Accra,,0.07053813,False,Unknown
+450,Marie Stopes International,,Kumasi,Ashanti,0.16393553,False,Ashanti
+444,Marie Stopes Ghana,,Techiman,,0.16142492,False,Unknown
+461,Mediwest Laboratory Services-MLS,,Takoradi,,0.024463097,False,Unknown
+485,Mizprom Herbal Centre,clinic,Accra,,0.16645122,False,Unknown
+456,MEDHealth Centers,,Accra,,0.26305673,True,Unknown
+69,Anfoega Catholic Hospital,hospital,Anfoega,Volta Region,0.03360426,False,Volta
+63,Amang Health Centre,clinic,,,0.28524745,True,Unknown
+689,St. Matthew’s Catholic Hospital,hospital,Apenkro,Dormaa East,0.0322883,False,Dormaa East
+687,St. Mary Theresa Catholic Hospital,hospital,,Oti,0.03914051,False,Oti
+789,"Women's Health Clinic - House # opposite zenith hotel Takoradi, Takoradi, Ghana",clinic,Takoradi,,0.07832293,False,Unknown
+8,Abomosu Health Centre,hospital,Abomosu,,0.034018654,False,Unknown
+792,Yaaba Medical Services,,Accra,,0.17175646,False,Unknown
+688,St. Marys Anglican Clinic,clinic,Apinkra,Ashanti,0.039644707,False,Ashanti
+705,SVG Africa,,,,0.27020252,True,Unknown
+700,Sunshine Ophthalmic Consult,,Kumasi,,0.074394286,False,Unknown
+645,Skyview Hospital,hospital,Pokoase,,0.08033573,False,Unknown
+649,Sogakope - MDC,clinic,Sogakope,,0.046412814,False,Unknown
+639,Shekinah Herbal TV GH,,,,0.010891014,False,Unknown
+458,"Medical Center - East Legon, Accra, Ghana",,East Legon,,0.010037466,False,Unknown
+509,New Vision Optical and Eyecare Centre,,Tema,,0.07832176,False,Unknown
+486,MMALABS (DORMAA BRANCH),,Dormaa Ahenkro,,0.016943567,False,Unknown
+619,Salaga District Hospital,hospital,Salaga,,0.035371307,False,Unknown
+718,Tarkwa Government Hospital,hospital,Tarkwa,,0.035449404,False,Unknown
+713,Taifa Polyclinic,clinic,Accra,,0.05724421,False,Unknown
+710,Synlab Ghana (Kumasi Ahodwo Depot),,Kumasi,,0.033155344,False,Unknown
+602,Royal MMR Hospital,hospital,Accra,,0.022712454,False,Unknown
+527,Offinsoman Pharmacy,farmacy,,,0.4114908,True,Unknown
+564,"Police Clinic, Sunyani",clinic,Sunyani,,0.053619187,False,Unknown
+548,Patasi Mater Dei Clinic,,Kumasi,,0.15362357,False,Unknown
+571,"Presbyterian Health Centre, Kwame Bikrom",,Sefwi Essam,,0.0099346265,False,Unknown
+208,DomLey Herbal Center,,Asamankese,,0.023557113,False,Unknown
+391,Kojokumikrom Rural Clinic,hospital,Sromani,,0.033693388,False,Unknown
+357,International SOS Takoradi Clinic,hospital,Takoradi,,0.014696505,False,Unknown
+361,Jaylex Health and Eye Consult,clinic,Kumasi,Ashanti,0.09129095,False,Ashanti
+340,Huttel Health and Development Centre,clinic,Boamadumasi,,0.05795225,False,Unknown
+395,Kpone Health Centre,hospital,Tema,,0.039167218,False,Unknown
+735,"The Smile Restore Dental Clinics Accra (26 Mango Tree Avenue, Accra, Ghana)",clinic,Accra,,0.092939116,False,Unknown
+410,Labone Dialysis Centre,,Accra,,0.20745848,False,Unknown
+403,Kwabenya Community Hospital,hospital,Accra,,0.024717286,False,Unknown
+402,Kwabeng RCH,hospital,Kwabeng,,0.041379973,False,Unknown
+399,Kumasi Children Hospital,hospital,Kumasi,,0.09505939,False,Unknown
+415,Larkai Medical Centre,clinic,Nima,Greater Accra,0.07013064,False,Greater Accra
+445,Marie Stopes Ghana,,Accra,,0.16277348,False,Unknown
+462,Medlab,,Accra,,0.0189238,False,Unknown
+96,Awuss Health,,Accra,,0.15166527,False,Unknown
+98,Ayeduase Health Centre,,Kumasi,,0.01913742,False,Unknown
+34,Agogo Hospital,hospital,Atonsu Kumasi,,0.047065787,False,Unknown
+48,AKOMADE CLINIC,clinic,Atebubu,,0.058000915,False,Unknown
+90,Asuofua Gov. Health Centre,hospital,Asuofia,,0.035371333,False,Unknown
+300,Gomoa Obuasi Clinic,clinic,Afransi,,0.05471956,False,Unknown
+23,Adenta Clinic,clinic,Accra,,0.053804737,False,Unknown
+59,Allied Specialist Hospital,hospital,Tema,,0.041796133,False,Unknown
+767,"Vicom Specialist Hospital - Accra, Ghana",hospital,Accra,,0.037897915,False,Unknown
+104,Banda Ahenkro Rural Clinic,hospital,Banda,,0.035371307,False,Unknown
+88,Asokore RCH,hospital,Koforidua,,0.085233144,False,Unknown
+136,"Brong Ahafo Regional Hospital, Sunyani",hospital,Sunyani,,0.09079562,False,Unknown
+153,Centre for Plant Medicine Research,,Mampong-Akwapim,,0.11223028,False,Unknown
+130,Br. Tarcisius Prosthetics & Orthotics Training College,,Nsawam,,0.24118727,False,Unknown
+186,Dare Labs,,Kumasi,,0.020490613,False,Unknown
+203,Doctore Opoku Hospital (Kumasi road),hospital,Techiman,,0.04728596,False,Unknown
+346,Indian Point Center,,East Legon,Accra,0.034050636,False,Greater Accra
+205,Dokrochiwa Health Centre,hospital,Oyarifa,,0.03349037,False,Unknown
+217,Dungu,hospital,Tamale,,0.015788993,False,Unknown
+12,Accra Medical Centre,,Accra,,0.03717083,False,Unknown
+79,"Apatrapa Hospital, Tepa, Ghana",hospital,Tepa,,0.16924183,False,Unknown
+519,Nyohini Hospital,hospital,Tamale,,0.034099236,False,Unknown
+501,Neighbourhood Hospital,hospital,Obuasi,,0.033606153,False,Unknown
+680,St. Joseph Hospital in Koforidua – Ghana,hospital,Koforidua,,0.04177741,False,Unknown
+682,St. Lucas Catholic Hospital,hospital,Wiaga,Upper East,0.25032172,True,Upper East
+666,St. Anne’s Catholic Hospital,hospital,Damongo,Savannah,0.3025016,True,Savannah
+793,Yendi District Hospital,hospital,Yendi,,0.037907146,False,Unknown
+521,Obosomase RCH,,Obosomase,,0.045562863,False,Unknown
+491,Mother- and Child Clinic Twabidi,clinic,Twabidi,Central Ghana,0.1372658,False,Central
+796,Zebilla District Hospital,,Lamboya,,0.06599248,False,Unknown
+160,Christ Soteria Health Centre,,KRONUM,ASHANTI,0.010504221,False,Ashanti
+95,Awuradze A' Maternity Home,,KUMASI,ASHANTI,0.060736462,False,Ashanti
+755,"University Medical Centre, Asante-Mampong",hospital,Mampong,Ashanti Region,0.010990968,False,Ashanti
+741,Tindonsobligo Clinic,hospital,Bolgatanga,,0.035382412,False,Unknown
+778,Wassa Akropong Government Hospital,hospital,Manso Amenfi,,0.035371333,False,Unknown
+258,Foundation Human Nature,,,,0.1533419,False,Unknown
+110,Beaver Dental,dentist,,,0.23072144,False,Unknown
+394,Kpendua,hospital,Yabologu,,0.036011316,False,Unknown
+779,Wassa Mampong Health Center,hospital,,,0.039153446,False,Unknown
+526,Offinso Health Centre,hospital,Kawkawti,,0.039153427,False,Unknown
+621,Salifu Memorial Clinic,hospital,,,0.03088245,False,Unknown
+178,Daffiama Health Centre,hospital,Daffiama,,0.039153427,False,Unknown
+738,"The Trust (SSNIT) Hospital, Osu, Accra",hospital,Accra,,0.054190412,False,Unknown
+780,Wecheau Health Centre,hospital,Wechiau,,0.033693362,False,Unknown
+146,Carelinx Home Healthcare Agency,,Agbogba,,0.037357103,False,Unknown
+723,Tema Polyclinic,,Tema,,0.16393284,False,Unknown
+89,Assin Nyankomasi CHPS Compoun,hospital,Asin,,0.04706576,False,Unknown
+103,BAMCEC (Bishop Ackon Memorial Christian Eye Centre),,Cape Coast,,0.08748179,False,Unknown

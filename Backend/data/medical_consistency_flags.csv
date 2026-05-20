@@ -1,0 +1,136 @@
+pk_unique_id,facility_name,facility_type,region,city,claimed_specialty,specialty_key,has_equipment,has_capability,has_procedure,reason,severity,flag_type
+636,Shai-Osudoku District Hospital,hospital,Greater Accra,Dodowa,Ophthalmology,ophthalmology,True,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+636,Shai-Osudoku District Hospital,hospital,Greater Accra,Dodowa,Pediatrics,pediatrics,True,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+636,Shai-Osudoku District Hospital,hospital,Greater Accra,Dodowa,Pathology / Laboratory,pathology,True,True,True,Pathology requires laboratory facilities,HIGH,MEDICAL_INCONSISTENCY
+432,MAB International Hospital,hospital,Greater Accra,Darkuman-Nyamekye,Ophthalmology,ophthalmology,True,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+673,St. Francis Xavier Hospital,hospital,Central,Assin-Foso,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+673,St. Francis Xavier Hospital,hospital,Central,Assin-Foso,Pediatrics,pediatrics,False,True,False,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+514,Nyaho Medical Centre,clinic,Unknown,Accra,Cardiology,cardiology,False,True,True,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+514,Nyaho Medical Centre,clinic,Unknown,Accra,Pediatrics,pediatrics,False,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,General Surgery,generalSurgery,False,True,False,Surgery requires an operating theatre and surgical equipment,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Cardiology,cardiology,False,True,False,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Radiology,radiology,False,True,False,Radiology requires imaging equipment,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Nephrology,nephrology,False,True,False,Nephrology requires dialysis or renal care facilities,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Emergency Medicine,emergencyMedicine,False,True,False,Emergency medicine requires 24/7 emergency unit or ambulance,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Critical Care / ICU,criticalCareMedicine,False,True,False,Critical care requires ICU / intensive care unit,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Neurosurgery,neurosurgery,False,True,False,Neurosurgery requires surgical facilities and neurosurgical equipment,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Cardiac Surgery,cardiacSurgery,False,True,False,Cardiac surgery requires operating theatre and cardiac support,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Pediatrics,pediatrics,False,True,False,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+382,Kings and Queens Medical University Teaching Hospital,hospital,Eastern,Akosombo,Pathology / Laboratory,pathology,False,True,False,Pathology requires laboratory facilities,HIGH,MEDICAL_INCONSISTENCY
+405,Kwadwo Boapim Herbal Clinic,clinic,Unknown,Accra,Cardiology,cardiology,False,True,False,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+405,Kwadwo Boapim Herbal Clinic,clinic,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+184,Danpong HealthCare,clinic,Unknown,Accra,Ophthalmology,ophthalmology,True,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+459,"Medicas Hospital, Mampong-Akuapem",hospital,Unknown,Akuapem Mampong,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+251,Finney Hospital and Fertility Centre,hospital,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+665,"St. Andrew Catholic Hospital, Kordiabe",hospital,Greater Accra,Kordiabe,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+1,West Africa AIDS Foundation,nan,Unknown,Haatso,Infectious Diseases (incl. TB),infectiousDiseases,False,False,False,Infectious disease care requires lab/testing or isolation facilities,MEDIUM,MEDICAL_INCONSISTENCY
+483,Mission Clinic,clinic,Greater Accra,Accra,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+729,The Community Hospital New Ashongman,hospital,Unknown,New Ashongman,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+19,Acrecity Medics,clinic,Unknown,Accra,General Surgery,generalSurgery,False,True,True,Surgery requires an operating theatre and surgical equipment,HIGH,MEDICAL_INCONSISTENCY
+503,New Crystal Hospital,hospital,Unknown,Ashaiman,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+503,New Crystal Hospital,hospital,Unknown,Ashaiman,Pediatrics,pediatrics,False,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+503,New Crystal Hospital,hospital,Unknown,Ashaiman,Pathology / Laboratory,pathology,False,True,True,Pathology requires laboratory facilities,HIGH,MEDICAL_INCONSISTENCY
+770,Vision Healthcare Clinic,clinic,Greater Accra,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+659,St Benito Menni Hospital,hospital,Ashanti,Dompoase,Ophthalmology,ophthalmology,True,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+659,St Benito Menni Hospital,hospital,Ashanti,Dompoase,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+659,St Benito Menni Hospital,hospital,Ashanti,Dompoase,Pediatrics,pediatrics,True,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+355,International Health Care Center Ghana,clinic,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,False,False,Infectious disease care requires lab/testing or isolation facilities,MEDIUM,MEDICAL_INCONSISTENCY
+359,Jambo Medical Centre,nan,Unknown,Accra,Radiology,radiology,True,True,False,Radiology requires imaging equipment,HIGH,MEDICAL_INCONSISTENCY
+467,MedTech Medical Center,nan,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+191,DEL International Hospital,hospital,Greater Accra,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+172,Cosmopolitan Medical Centre,hospital,Unknown,Accra,General Surgery,generalSurgery,False,True,True,Surgery requires an operating theatre and surgical equipment,HIGH,MEDICAL_INCONSISTENCY
+172,Cosmopolitan Medical Centre,hospital,Unknown,Accra,Ophthalmology,ophthalmology,False,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+633,Sefwi Wiawso District Hospital,hospital,Unknown,Sefwi Wiawso,Emergency Medicine,emergencyMedicine,False,True,False,Emergency medicine requires 24/7 emergency unit or ambulance,HIGH,MEDICAL_INCONSISTENCY
+423,Life Healthcare Center Ghana,nan,Unknown,Accra,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+573,Prime Diagnostics and Eye-care,nan,Ashanti,Kumasi,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+311,Gye Nyame Mobile Clinics,nan,Unknown,Kumasi,Pediatrics,pediatrics,False,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+312,Habibi Herbal Hospital,hospital,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,True,True,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+275,Generational Health Foundation,nan,Asokwa-Kumasi,Kumasi,General Surgery,generalSurgery,False,False,False,Surgery requires an operating theatre and surgical equipment,MEDIUM,MEDICAL_INCONSISTENCY
+648,Society for AIDS in Africa,nan,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+46,Akatsi South Municipal Hospital,hospital,Unknown,Akatsi,Radiology,radiology,False,True,True,Radiology requires imaging equipment,HIGH,MEDICAL_INCONSISTENCY
+211,Dormaa Presbyterian Hospital,hospital,Unknown,Dormaa Ahenkro,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+425,Little Hearts Medical Practice,nan,Unknown,Accra,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+428,Lod Health Lounge,nan,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+517,Nyame Besa Herbal Clinic,clinic,Unknown,Nsawam,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+154,Certa Medical Diagnostics,clinic,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,True,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+656,Spine and Nerve Center - Ghana,clinic,Unknown,Accra,Neurosurgery,neurosurgery,False,True,True,Neurosurgery requires surgical facilities and neurosurgical equipment,HIGH,MEDICAL_INCONSISTENCY
+129,Bone Marrow Transplantation Ghana,nan,Accra North,Accra,Pediatrics,pediatrics,False,False,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Cardiology,cardiology,False,True,False,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Emergency Medicine,emergencyMedicine,False,True,False,Emergency medicine requires 24/7 emergency unit or ambulance,HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Pediatrics,pediatrics,False,True,False,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+644,Sisters Hospitallers' English Province,nan,Ashanti,Dompoase,Pathology / Laboratory,pathology,False,True,False,Pathology requires laboratory facilities,HIGH,MEDICAL_INCONSISTENCY
+488,Modern Way Herbal Clinic,hospital,Unknown,Sunyani,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+703,Supercare Specialist Medical & Ho Fertility Center,hospital,Unknown,Ho,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+301,GPHA Clinic,clinic,Unknown,Takoradi,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+536,Ospedale Didattico di Tamale,hospital,Northern,Tamale,Nephrology,nephrology,True,True,True,Nephrology requires dialysis or renal care facilities,HIGH,MEDICAL_INCONSISTENCY
+536,Ospedale Didattico di Tamale,hospital,Northern,Tamale,Critical Care / ICU,criticalCareMedicine,True,True,True,Critical care requires ICU / intensive care unit,HIGH,MEDICAL_INCONSISTENCY
+385,KK Health CARE Center,hospital,Unknown,Swedru,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,General Surgery,generalSurgery,False,False,False,Surgery requires an operating theatre and surgical equipment,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Ophthalmology,ophthalmology,False,False,False,Ophthalmology requires eye examination equipment,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Radiology,radiology,False,False,False,Radiology requires imaging equipment,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Emergency Medicine,emergencyMedicine,False,False,False,Emergency medicine requires 24/7 emergency unit or ambulance,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Gynecology & Obstetrics,gynecologyAndObstetrics,False,False,False,OB/GYN requires maternity/delivery facilities,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+152,Central Regional Police Clinic,nan,Unknown,Ghana,Pathology / Laboratory,pathology,False,False,False,Pathology requires laboratory facilities,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),General Surgery,generalSurgery,False,False,False,Surgery requires an operating theatre and surgical equipment,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Ophthalmology,ophthalmology,False,False,False,Ophthalmology requires eye examination equipment,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Radiology,radiology,False,False,False,Radiology requires imaging equipment,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Emergency Medicine,emergencyMedicine,False,False,False,Emergency medicine requires 24/7 emergency unit or ambulance,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Infectious Diseases (incl. TB),infectiousDiseases,False,False,False,Infectious disease care requires lab/testing or isolation facilities,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Gynecology & Obstetrics,gynecologyAndObstetrics,False,False,False,OB/GYN requires maternity/delivery facilities,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+430,Luke Society Ghana,nan,Ashanti,Kasei (via Ejura),Pathology / Laboratory,pathology,False,False,False,Pathology requires laboratory facilities,MEDIUM,MEDICAL_INCONSISTENCY
+185,Dar-Bem Clinic,clinic,Greater Accra,Ashaiman,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+188,Datwell_Medical,nan,Unknown,Accra,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+72,Ankaful Leprosy & General Hospital,hospital,Keea,Ankaful,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+419,Le Mete NGO Ghana,nan,Unknown,Tamale,Nephrology,nephrology,True,True,True,Nephrology requires dialysis or renal care facilities,HIGH,MEDICAL_INCONSISTENCY
+419,Le Mete NGO Ghana,nan,Unknown,Tamale,Critical Care / ICU,criticalCareMedicine,True,True,True,Critical care requires ICU / intensive care unit,HIGH,MEDICAL_INCONSISTENCY
+419,Le Mete NGO Ghana,nan,Unknown,Tamale,Pathology / Laboratory,pathology,True,True,True,Pathology requires laboratory facilities,HIGH,MEDICAL_INCONSISTENCY
+584,Quest Medical Imaging,nan,Greater Accra,Accra,Cardiology,cardiology,False,True,True,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+584,Quest Medical Imaging,nan,Greater Accra,Accra,Critical Care / ICU,criticalCareMedicine,False,True,True,Critical care requires ICU / intensive care unit,HIGH,MEDICAL_INCONSISTENCY
+584,Quest Medical Imaging,nan,Greater Accra,Accra,Pediatrics,pediatrics,False,True,True,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+106,Baptist Medical Centre,hospital,Unknown,Nalerigu,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+13,Accra Newtown Islamic Hospital,hospital,Unknown,Accra Newtown,Ophthalmology,ophthalmology,True,True,True,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+3,2BN Military Hospital,hospital,Western,Apremdo,Emergency Medicine,emergencyMedicine,False,False,False,Emergency medicine requires 24/7 emergency unit or ambulance,MEDIUM,MEDICAL_INCONSISTENCY
+427,Lizzie's Maternity Home,nan,Unknown,,Gynecology & Obstetrics,gynecologyAndObstetrics,False,False,False,OB/GYN requires maternity/delivery facilities,MEDIUM,MEDICAL_INCONSISTENCY
+506,New Life Hospital,hospital,Unknown,Adoagyiri-adeiso,Emergency Medicine,emergencyMedicine,False,True,False,Emergency medicine requires 24/7 emergency unit or ambulance,HIGH,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,General Surgery,generalSurgery,False,False,False,Surgery requires an operating theatre and surgical equipment,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Ophthalmology,ophthalmology,False,False,False,Ophthalmology requires eye examination equipment,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Radiology,radiology,False,False,False,Radiology requires imaging equipment,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Emergency Medicine,emergencyMedicine,False,False,False,Emergency medicine requires 24/7 emergency unit or ambulance,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Gynecology & Obstetrics,gynecologyAndObstetrics,False,False,False,OB/GYN requires maternity/delivery facilities,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+144,Cape Coast Teaching Hospital,hospital,Unknown,Tamale,Pathology / Laboratory,pathology,False,False,False,Pathology requires laboratory facilities,MEDIUM,MEDICAL_INCONSISTENCY
+541,Owusu Memorial Hospital,hospital,Unknown,Sunyani,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+157,"Children's Hospital, Okomfo Anokye Road, Kumasi, Ghana",hospital,Unknown,Kumasi,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+214,Dr. Power Herbal Clinic TV,nan,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+214,Dr. Power Herbal Clinic TV,nan,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+32,"African Vision Clinic - Adenta Housing down, Accra, Ghana",clinic,Unknown,Accra,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+230,Emmanuel Eye Clinic - Shiashie,clinic,Unknown,Accra,Ophthalmology,ophthalmology,False,True,False,Ophthalmology requires eye examination equipment,HIGH,MEDICAL_INCONSISTENCY
+198,Digestive Diseases Aid,nan,Unknown,,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+198,Digestive Diseases Aid,nan,Unknown,,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+615,Saint Johns Clinic and Maternity Home Company,clinic,Unknown,Cape Coast,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+642,Sincere Herbal Research and Treatment Center,clinic,Unknown,Kintampo,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+148,"Catholic Health Service Trust, Ghana",nan,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+148,"Catholic Health Service Trust, Ghana",nan,Unknown,Accra,Pediatrics,pediatrics,False,True,False,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+376,Kate Afram Clinic,clinic,Unknown,,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+341,IAMA Diagnostic Ultrasound & Medical Centre,nan,Unknown,Kumasi,Radiology,radiology,False,False,False,Radiology requires imaging equipment,MEDIUM,MEDICAL_INCONSISTENCY
+371,Jubile Catholic Children Hospital,hospital,Western,Apowa,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+485,Mizprom Herbal Centre,clinic,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,False,False,Infectious disease care requires lab/testing or isolation facilities,MEDIUM,MEDICAL_INCONSISTENCY
+456,MEDHealth Centers,nan,Unknown,Accra,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,True,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+63,Amang Health Centre,clinic,Unknown,,Cardiology,cardiology,False,True,False,Cardiology requires cardiac diagnostic equipment (ECG/echo),HIGH,MEDICAL_INCONSISTENCY
+63,Amang Health Centre,clinic,Unknown,,Nephrology,nephrology,False,True,False,Nephrology requires dialysis or renal care facilities,HIGH,MEDICAL_INCONSISTENCY
+789,"Women's Health Clinic - House # opposite zenith hotel Takoradi, Takoradi, Ghana",clinic,Unknown,Takoradi,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+705,SVG Africa,nan,Unknown,,General Surgery,generalSurgery,False,True,True,Surgery requires an operating theatre and surgical equipment,HIGH,MEDICAL_INCONSISTENCY
+649,Sogakope - MDC,clinic,Unknown,Sogakope,Radiology,radiology,False,False,False,Radiology requires imaging equipment,MEDIUM,MEDICAL_INCONSISTENCY
+710,Synlab Ghana (Kumasi Ahodwo Depot),nan,Unknown,Kumasi,Pathology / Laboratory,pathology,False,False,False,Pathology requires laboratory facilities,MEDIUM,MEDICAL_INCONSISTENCY
+399,Kumasi Children Hospital,hospital,Unknown,Kumasi,Pediatrics,pediatrics,False,False,False,Pediatrics requires child-specific care facilities,MEDIUM,MEDICAL_INCONSISTENCY
+96,Awuss Health,nan,Unknown,Accra,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+88,Asokore RCH,hospital,Unknown,Koforidua,Pediatrics,pediatrics,False,True,False,Pediatrics requires child-specific care facilities,HIGH,MEDICAL_INCONSISTENCY
+796,Zebilla District Hospital,nan,Unknown,Lamboya,Gynecology & Obstetrics,gynecologyAndObstetrics,False,True,False,OB/GYN requires maternity/delivery facilities,HIGH,MEDICAL_INCONSISTENCY
+723,Tema Polyclinic,nan,Unknown,Tema,Infectious Diseases (incl. TB),infectiousDiseases,False,True,False,Infectious disease care requires lab/testing or isolation facilities,HIGH,MEDICAL_INCONSISTENCY
+103,BAMCEC (Bishop Ackon Memorial Christian Eye Centre),nan,Unknown,Cape Coast,Ophthalmology,ophthalmology,False,False,False,Ophthalmology requires eye examination equipment,MEDIUM,MEDICAL_INCONSISTENCY

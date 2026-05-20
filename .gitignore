@@ -1,0 +1,127 @@
+# Secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+env/
+ENV/
+
+# Node / Next.js
+node_modules/
+ui/node_modules/
+ui/.next/
+ui/out/
+ui/build/
+ui/tsconfig.tsbuildinfo
+ui/next-env.d.ts
+
+# Generated data / local databases
+*.db
+data/*.db
+data/lancedb/
+*.lance
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+ui/.next-dev*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local tooling
+.cursor/
+.vscode/
+.idea/
+.vercel/
+ui/.vercel/
+ui/.clerk/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project cleanup artifacts
+test_*.py
+*_test.py
+quick_test.py
+*_plan.md
+TEAM_HANDOFF.md
+Team_Handoff_Guide.html
+DevA_Final_Report.html
+ui/screens/
+*.pdf
+
+# =========================
+# UI (Next.js Frontend)
+# =========================
+ui/node_modules/
+ui/.next/
+ui/out/
+ui/build/
+ui/dist/
+
+# UI env files
+ui/.env
+ui/.env.*
+!ui/.env.example
+
+# UI logs
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
+ui/.pnpm-debug.log*
+
+# UI TypeScript
+ui/*.tsbuildinfo
+ui/next-env.d.ts
+
+# UI package managers
+ui/.pnp
+ui/.pnp.*
+ui/.yarn/*
+!ui/.yarn/patches
+!ui/.yarn/plugins
+!ui/.yarn/releases
+!ui/.yarn/versions
+
+# UI deployment
+ui/.vercel/
+ui/.clerk/
+
+# =========================
+# Backend (Python)
+# =========================
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/*.pyd
+backend/.venv/
+backend/venv/
+backend/env/
+
+# =========================
+# Common
+# =========================
+coverage/
+.DS_Store
+*.pem
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+{
+  "name": "sankofa-health-root",
+  "version": "1.0.0",
+  "description": "Root orchestrator for Sankofa AI Ghana Healthcare application",
+  "scripts": {
+    "dev": "concurrently \"python api.py\" \"npm run dev --prefix ui\"",
+    "dev:backend": "python api.py",
+    "dev:frontend": "npm run dev --prefix ui"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

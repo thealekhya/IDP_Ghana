@@ -1,0 +1,242 @@
+@import "tailwindcss";
+
+@theme {
+  --color-on-tertiary: #472a00;
+  --color-on-surface: #dde2f8;
+  --color-surface-container-low: #151b2b;
+  --color-inverse-primary: #00668a;
+  --color-primary-fixed: #c4e7ff;
+  --color-error-container: #93000a;
+  --color-tertiary-container: #f1a02b;
+  --color-surface-dim: #0d1322;
+  --color-on-primary-fixed: #001e2c;
+  --color-tertiary-fixed-dim: #ffb960;
+  --color-background: #0d1322;
+  --color-surface-variant: #2f3445;
+  --color-on-secondary-fixed: #00201c;
+  --color-on-primary-fixed-variant: #004c69;
+  --color-on-primary: #00354a;
+  --color-error: #ffb4ab;
+  --color-surface-container-lowest: #080e1d;
+  --color-surface-bright: #33394a;
+  --color-on-secondary-container: #004d44;
+  --color-on-error: #690005;
+  --color-secondary-fixed-dim: #3cddc7;
+  --color-tertiary: #ffc176;
+  --color-primary-container: #38bdf8;
+  --color-secondary-fixed: #62fae3;
+  --color-surface-container-highest: #2f3445;
+  --color-on-tertiary-fixed-variant: #653e00;
+  --color-primary-fixed-dim: #7bd0ff;
+  --color-on-tertiary-fixed: #2a1700;
+  --color-surface-container-high: #242a3a;
+  --color-surface-tint: #7bd0ff;
+  --color-inverse-surface: #dde2f8;
+  --color-inverse-on-surface: #2a3040;
+  --color-surface: #0d1322;
+  --color-on-surface-variant: #bdc8d1;
+  --color-secondary: #44e2cd;
+  --color-tertiary-fixed: #ffddb8;
+  --color-on-background: #dde2f8;
+  --color-surface-container: #191f2f;
+  --color-on-tertiary-container: #613b00;
+  --color-on-secondary: #003731;
+  --color-on-error-container: #ffdad6;
+  --color-on-primary-container: #004965;
+  --color-on-secondary-fixed-variant: #005047;
+  --color-outline: #87929a;
+  --color-primary: #8ed5ff;
+  --color-secondary-container: #03c6b2;
+  --color-outline-variant: #3e484f;
+
+  --spacing-margin-desktop: 64px;
+  --spacing-gutter: 24px;
+  --spacing-margin-mobile: 16px;
+  --spacing-unit: 4px;
+  --spacing-max-width: 1440px;
+
+  --font-body-md: var(--font-inter);
+  --font-label-sm: var(--font-jetbrains-mono);
+  --font-headline-md: var(--font-manrope);
+  --font-body-lg: var(--font-inter);
+  --font-display-lg: var(--font-manrope);
+  --font-display-lg-mobile: var(--font-manrope);
+
+  /* Note: font sizes in v4 can be added via arbitrary values or custom utilities if needed.
+     For simplicity, we'll map them manually if required, or rely on standard tailwind text- sizes.
+     Since the stitched HTML uses text-body-md, text-label-sm etc., we define them here. */
+  --text-body-md: 16px;
+  --text-body-md--line-height: 24px;
+  
+  --text-label-sm: 12px;
+  --text-label-sm--line-height: 16px;
+  --text-label-sm--letter-spacing: 0.05em;
+  
+  --text-headline-md: 24px;
+  --text-headline-md--line-height: 32px;
+  
+  --text-body-lg: 18px;
+  --text-body-lg--line-height: 28px;
+  
+  --text-display-lg: 48px;
+  --text-display-lg--line-height: 56px;
+  --text-display-lg--letter-spacing: -0.02em;
+  
+  --text-display-lg-mobile: 36px;
+  --text-display-lg-mobile--line-height: 44px;
+}
+
+@utility text-body-md {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+@utility text-label-sm {
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+@utility text-headline-md {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+}
+@utility text-body-lg {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+}
+@utility text-display-lg {
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+@utility text-display-lg-mobile {
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 700;
+}
+
+body {
+  @apply bg-background text-on-background h-full font-body-md antialiased;
+}
+
+.map-marker {
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 180, 171, 0.7); }
+  70% { transform: scale(1.1); box-shadow: 0 0 0 10px rgba(255, 180, 171, 0); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 180, 171, 0); }
+}
+
+/* ─── Markdown prose styling for AI chat responses ─── */
+.chat-markdown {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--color-on-surface);
+}
+.chat-markdown p {
+  margin-bottom: 0.75em;
+}
+.chat-markdown p:last-child {
+  margin-bottom: 0;
+}
+.chat-markdown strong {
+  color: var(--color-primary);
+  font-weight: 700;
+}
+.chat-markdown em {
+  color: var(--color-tertiary);
+  font-style: italic;
+}
+.chat-markdown h1, .chat-markdown h2, .chat-markdown h3 {
+  font-weight: 700;
+  color: var(--color-on-surface);
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+  line-height: 1.3;
+}
+.chat-markdown h1 { font-size: 1.4em; }
+.chat-markdown h2 { font-size: 1.2em; }
+.chat-markdown h3 { font-size: 1.05em; color: var(--color-primary); }
+.chat-markdown ul, .chat-markdown ol {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+}
+.chat-markdown ul { list-style-type: disc; }
+.chat-markdown ol { list-style-type: decimal; }
+.chat-markdown li {
+  margin-bottom: 0.35em;
+  line-height: 1.6;
+}
+.chat-markdown li::marker {
+  color: var(--color-primary);
+}
+.chat-markdown code {
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.88em;
+  font-family: 'JetBrains Mono', 'Fira Mono', monospace;
+  color: var(--color-secondary);
+}
+.chat-markdown pre {
+  background: rgba(0,0,0,0.35);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  overflow-x: auto;
+  margin: 0.75em 0;
+}
+.chat-markdown pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.85em;
+  color: #a5d6a7;
+}
+.chat-markdown hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  margin: 1em 0;
+}
+.chat-markdown a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.chat-markdown a:hover {
+  color: var(--color-primary-fixed-dim);
+}
+.chat-markdown blockquote {
+  border-left: 3px solid var(--color-primary);
+  padding-left: 1em;
+  margin: 0.75em 0;
+  color: var(--color-on-surface-variant);
+  font-style: italic;
+}
+.chat-markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75em 0;
+  font-size: 0.9em;
+}
+.chat-markdown th {
+  text-align: left;
+  padding: 0.5em 0.75em;
+  border-bottom: 2px solid rgba(255,255,255,0.15);
+  color: var(--color-primary);
+  font-weight: 700;
+}
+.chat-markdown td {
+  padding: 0.4em 0.75em;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.chat-markdown tr:hover td {
+  background: rgba(255,255,255,0.03);
+}
+
