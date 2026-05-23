@@ -4,8 +4,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
 
-# Load env variables early
-load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), ".env"), override=True)
+# Load env variables early.
+# Prefer the project-root .env so backend and frontend can share one local config file.
+_backend_dir = os.path.dirname(__file__)
+load_dotenv(dotenv_path=os.path.join(_backend_dir, "..", ".env"), override=True)
+load_dotenv(dotenv_path=os.path.join(_backend_dir, ".env"), override=False)
 
 from backend.agent.graph import agent
 
