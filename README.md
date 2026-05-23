@@ -194,8 +194,6 @@ LLM_PROVIDER=openai
 LLM_MODEL=gpt-4o
 ```
 
-Never commit `.env` files. The root `.env` is ignored by Git.
-
 ## Installation
 
 Clone the repository and move into the project root:
