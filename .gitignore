@@ -1,62 +1,117 @@
-# Secrets
+# =========================
+# Secrets and local config
+# =========================
 .env
 *.env
 .env.*
 !.env.example
+!.env.*.example
 
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.so
+*.egg
 *.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+backend/.venv/
+backend/venv/
+backend/env/
+
+# Python tooling and caches
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-venv/
-.venv/
-env/
-ENV/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage/
+htmlcov/
+pip-wheel-metadata/
 
-# Node / Next.js
+# =========================
+# Node / Next.js frontend
+# =========================
 node_modules/
-ui/node_modules/
-ui/.next/
-ui/out/
-ui/build/
-ui/tsconfig.tsbuildinfo
-ui/next-env.d.ts
+Frontend/node_modules/
+Frontend/.next/
+Frontend/out/
+Frontend/build/
+Frontend/dist/
+Frontend/.turbo/
+Frontend/next-env.d.ts
+Frontend/*.tsbuildinfo
 
-# Generated data / local databases
+# Frontend package manager artifacts
+Frontend/.pnp
+Frontend/.pnp.*
+Frontend/.yarn/*
+!Frontend/.yarn/patches
+!Frontend/.yarn/plugins
+!Frontend/.yarn/releases
+!Frontend/.yarn/versions
+
+# Frontend deployment/auth caches
+Frontend/.vercel/
+Frontend/.clerk/
+
+# =========================
+# Data, generated databases, and vector stores
+# =========================
 *.db
+*.sqlite
+*.sqlite3
+*.lance
+backend/data/*.db
+backend/data/*.sqlite
+backend/data/*.sqlite3
+backend/data/lancedb/
 data/*.db
 data/lancedb/
-*.lance
 
-# Logs and temp files
+# =========================
+# Logs and temporary files
+# =========================
 *.log
 *.tmp
+*.temp
 *.bak
-ui/.next-dev*.log
+*.swp
+*.swo
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/.pnpm-debug.log*
+Frontend/.next-dev*.log
 
-# Local tooling
-.cursor/
+# =========================
+# Local editor and OS files
+# =========================
 .vscode/
 .idea/
-.vercel/
-ui/.vercel/
-ui/.clerk/
-
-# OS files
+.cursor/
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Project cleanup artifacts
+# =========================
+# Local reports and scratch artifacts
+# =========================
 test_*.py
 *_test.py
 quick_test.py
@@ -64,64 +119,6 @@ quick_test.py
 TEAM_HANDOFF.md
 Team_Handoff_Guide.html
 DevA_Final_Report.html
-ui/screens/
+Frontend/screens/
 *.pdf
-
-# =========================
-# UI (Next.js Frontend)
-# =========================
-ui/node_modules/
-ui/.next/
-ui/out/
-ui/build/
-ui/dist/
-
-# UI env files
-ui/.env
-ui/.env.*
-!ui/.env.example
-
-# UI logs
-ui/npm-debug.log*
-ui/yarn-debug.log*
-ui/yarn-error.log*
-ui/.pnpm-debug.log*
-
-# UI TypeScript
-ui/*.tsbuildinfo
-ui/next-env.d.ts
-
-# UI package managers
-ui/.pnp
-ui/.pnp.*
-ui/.yarn/*
-!ui/.yarn/patches
-!ui/.yarn/plugins
-!ui/.yarn/releases
-!ui/.yarn/versions
-
-# UI deployment
-ui/.vercel/
-ui/.clerk/
-
-# =========================
-# Backend (Python)
-# =========================
-backend/__pycache__/
-backend/*.py[cod]
-backend/*.pyo
-backend/*.pyd
-backend/.venv/
-backend/venv/
-backend/env/
-
-# =========================
-# Common
-# =========================
-coverage/
-.DS_Store
 *.pem
-
-# IDE
-.vscode/
-.idea/
