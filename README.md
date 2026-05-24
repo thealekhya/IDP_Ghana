@@ -193,6 +193,52 @@ LLM_PROVIDER=openai
 LLM_MODEL=gpt-4o
 ```
 
+### Clerk Authentication Setup
+
+The frontend already includes the Clerk provider, authentication buttons, and protected-route middleware. To run authentication locally, you only need to create a Clerk app and add the keys.
+
+1. Go to the Clerk dashboard:
+
+```text
+https://dashboard.clerk.com
+```
+
+2. Create a new Clerk application, or open an existing one.
+
+3. In the Clerk dashboard, open the API keys section and copy:
+
+- Publishable key
+- Secret key
+
+4. Add both keys to the root `.env` file:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
+CLERK_SECRET_KEY=your-clerk-secret-key
+```
+
+5. In the Clerk dashboard, make sure the local frontend URL is allowed for development:
+
+```text
+http://localhost:3000
+```
+
+6. Install the latest Clerk package in the frontend if dependencies are not already installed:
+
+```bash
+cd Frontend
+npm install
+npm install @clerk/nextjs@latest
+```
+
+7. Restart the frontend after adding or changing Clerk keys:
+
+```bash
+npm run dev
+```
+
+No Clerk code changes are required for local setup. The homepage already renders the sign-in and sign-up buttons, and protected routes redirect through the existing middleware.
+
 ## Installation
 
 Clone the repository and move into the project root:
