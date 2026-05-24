@@ -49,7 +49,6 @@ The project is designed for healthcare planning and decision support. Users can 
 - Clerk Authentication
 - Leaflet
 - React Leaflet
-- Mapbox GL
 - React Markdown
 - MapTiler map tiles
 
@@ -239,6 +238,7 @@ Install frontend dependencies:
 ```bash
 cd Frontend
 npm install
+npm install @clerk/nextjs@latest
 ```
 
 On Windows PowerShell, use `npm.cmd install` if `npm install` is blocked by execution policy.
